@@ -1,0 +1,7026 @@
+[
+    {
+        "name": "Bronze Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 140,
+            "max": 140
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Iron Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 560,
+            "max": 560
+        },
+        "colors": [
+            "black",
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Cobalt Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 3500,
+            "max": 3500
+        },
+        "colors": [
+            "black",
+            "blue"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Titanium Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 14000,
+            "max": 14000
+        },
+        "colors": [
+            "black",
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Gold Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 35000,
+            "max": 35000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Onyx Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 70000,
+            "max": 70000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Blue Wizard Hat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 185000,
+            "max": 185000
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Brash Knight Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 70000,
+            "max": 70000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Celestial Moon Hat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "pink",
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Courting Knight Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 160000,
+            "max": 160000
+        },
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Dark Hunter Hat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 185000,
+            "max": 185000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Darkwood Warrior Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 600000,
+            "max": 600000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Furnace Mummy Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 1260000,
+            "max": 1260000
+        },
+        "colors": [
+            "black",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Galaxy Wizard Hat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 1260000,
+            "max": 1260000
+        },
+        "colors": [
+            "green",
+            "purple",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Guardian Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Hardened Bronze Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 100000,
+            "max": 100000
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Hedge Knight Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 45000,
+            "max": 45000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Illuminator's Hat",
+        "slot": "head",
+        "stats": [
+            "sightRange"
+        ],
+        "cost": {
+            "min": 75000,
+            "max": 75000
+        },
+        "colors": [
+            "black",
+            "brown",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Ivory Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 300000,
+            "max": 300000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Jade Assassin's Mask",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 115000,
+            "max": 115000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Lagoon Spirit Head",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 590000,
+            "max": 590000
+        },
+        "colors": [
+            "blue",
+            "green",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Mortmud Hood",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 65000,
+            "max": 65000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Patched Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 35000,
+            "max": 35000
+        },
+        "colors": [
+            "green",
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Razed General Hat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 1260000,
+            "max": 1260000
+        },
+        "colors": [
+            "blue",
+            "orange",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Red Wizard Hat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 185000,
+            "max": 185000
+        },
+        "colors": [
+            "brown",
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Riveted Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 14000,
+            "max": 14000
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Skull",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 200000,
+            "max": 200000
+        },
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Spikeout Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 70000,
+            "max": 70000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Springtwig Eye",
+        "slot": "head",
+        "stats": [
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "brown",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Tomb Prowler Hat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 590000,
+            "max": 590000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Void Monster Mask",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 600000,
+            "max": 600000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Woodland Ranger Hat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 90000,
+            "max": 90000
+        },
+        "colors": [
+            "brown",
+            "green"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Zhuulaczar Crown",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "brown",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Chasm Magus Hat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "sightRange"
+        ],
+        "cost": {
+            "min": 1500000,
+            "max": 1500000
+        },
+        "colors": [
+            "green",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Crabsuit Headgear",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "endurance",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 800000,
+            "max": 800000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Gardendweller's Hat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 320000,
+            "max": 320000
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Gauntlet Fury Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 1350000,
+            "max": 1500000
+        },
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Guild Knight Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4200000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Knight's Army Core",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 2000000
+        },
+        "colors": [
+            "gray",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Odewig Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2000000,
+            "max": 2000000
+        },
+        "colors": [
+            "gray",
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Pettyganger's Parade Mask",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 4200000,
+            "max": 5000000
+        },
+        "colors": [
+            "black",
+            "gray",
+            "blue",
+            "green",
+            "pink",
+            "white",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Poison Construct Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Rotted King's Mask",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 3200000,
+            "max": 3500000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "green"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Spellbound Mage Hood",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 1400000,
+            "max": 1400000
+        },
+        "colors": [
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Earth King Regalia",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "The Mask of Forgotten Things",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 4500000,
+            "max": 5000000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "The Vengeful Visage",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 2000000,
+            "max": 2000000
+        },
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Void Lord Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Wolfram Leader Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "colors": [
+            "brown",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "World Sculptor's Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [
+            "green",
+            "white"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Aquatic Explorer Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 3800000,
+            "max": 3800000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "gray"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Helm of the Skater",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 6800000,
+            "max": 7500000
+        },
+        "colors": [
+            "black",
+            "gray",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "fs"
+    },
+    {
+        "name": "New Voice Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4400000,
+            "max": 4400000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Romo Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 8800000,
+            "max": 8800000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "gray",
+            "orange",
+            "red",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fs"
+    },
+    {
+        "name": "Wisecrack Skull",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 4500000,
+            "max": 4500000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "green",
+            "pink",
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "fs"
+    },
+    {
+        "name": "Woodwhack Legionnaire Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "sightRange",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "colors": [
+            "gray",
+            "brown",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Bedrock Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5200000,
+            "max": 5500000
+        },
+        "colors": [
+            "gray",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Corrupted Gold Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 7000000,
+            "max": 7000000
+        },
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Corrupted Onyx Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 7000000
+        },
+        "colors": [
+            "black",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Falling Light Mask",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Fire Hood",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "brown",
+            "orange",
+            "red"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Guttermouth Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 7500000,
+            "max": 7500000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "green",
+        "release": "rn"
+    },
+    {
+        "name": "Ice Hood",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Nightmare Prowler Hat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 5800000,
+            "max": 6000000
+        },
+        "colors": [
+            "blue",
+            "gray",
+            "red",
+            "yellow"
+        ],
+        "outline": "",
+        "release": "rn"
+    },
+    {
+        "name": "Pantry Leech Head",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "black",
+            "gray",
+            "green"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Rising Dark Mask",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Roadblocks Head",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen",
+            "endurance",
+            "sightRange",
+            "walkSpeed",
+            "jumpPower",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 20000000,
+            "max": 20000000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "green",
+            "red",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "U-Life Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "hpRegen",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Wired Fury Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 5500000,
+            "max": 5500000
+        },
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Green Spectral Vanguard Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "green",
+        "release": "nb"
+    },
+    {
+        "name": "Blue Spectral Vanguard Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "blue",
+        "release": "nb"
+    },
+    {
+        "name": "Purple Spectral Vanguard Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2600000,
+            "max": 2600000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "yellow",
+        "release": "nb"
+    },
+    {
+        "name": "Black Spectral Vanguard Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "colors": [
+            "black",
+            "green"
+        ],
+        "outline": "purple",
+        "release": "nb"
+    },
+    {
+        "name": "White Spectral Vanguard Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "colors": [
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "nb"
+    },
+    {
+        "name": "True Spectral Vanguard Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "green",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "nb"
+    },
+    {
+        "name": "Fire Guild Knight Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 4800000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Water Guild Knight Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 4800000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Temple Fool Head",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5200000,
+            "max": 5200000
+        },
+        "colors": [
+            "black",
+            "green",
+            "red"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Machine Rug Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "yellow",
+        "release": "sp"
+    },
+    {
+        "name": "Mr. Techy Techy Head Protector",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 25000000,
+            "max": 25000000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "yellow",
+        "release": "sp"
+    },
+    {
+        "name": "Royal Bronze Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "blue",
+        "release": "rn"
+    },
+    {
+        "name": "Royal Iron Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Royal Cobalt Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "blue"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Royal Titanium Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Royal Gold Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Royal Onyx Helmet",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Brickland",
+        "slot": "head",
+        "stats": [
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 6000000,
+            "max": 7000000
+        },
+        "colors": [
+            "brown",
+            "green"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Century Cube",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 8800000,
+            "max": 8800000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Clever Cube",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2200000,
+            "max": 2200000
+        },
+        "colors": [
+            "black",
+            "pink",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Corrupted Wizard's Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Cosmic Ghost Mask",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "purple",
+            "red"
+        ],
+        "outline": "black",
+        "release": "sp"
+    },
+    {
+        "name": "Crescent Coralhead",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 650000,
+            "max": 650000
+        },
+        "colors": [
+            "blue",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Criminal's Tallhat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5100000
+        },
+        "colors": [
+            "black",
+            "brown",
+            "gray"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Dark Ghost Mask",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "pink",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Detour Cone",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 5200000,
+            "max": 5200000
+        },
+        "colors": [
+            "green",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Far North Mask",
+        "slot": "head",
+        "stats": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 2235000,
+            "max": 2235000
+        },
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "outline": "white",
+        "release": "ow"
+    },
+    {
+        "name": "Fashion Hat",
+        "slot": "head",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 1200000,
+            "max": 1200000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "green",
+        "release": "rn"
+    },
+    {
+        "name": "Fear",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 50000000,
+            "max": 50000000
+        },
+        "colors": [
+            "black",
+            "red",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "sp"
+    },
+    {
+        "name": "Ghost Mask",
+        "slot": "head",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Gold",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 50000000,
+            "max": 50000000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "sp"
+    },
+    {
+        "name": "Hive Crown",
+        "slot": "head",
+        "stats": [
+            "magicDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 1200000,
+            "max": 1200000
+        },
+        "colors": [
+            "green",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Kitchen Cube",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 880000,
+            "max": 880000
+        },
+        "colors": [
+            "black",
+            "blue"
+        ],
+        "outline": "blue",
+        "release": "rn"
+    },
+    {
+        "name": "Krunkston Four",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 9000000,
+            "max": 10000000
+        },
+        "colors": [
+            "blue",
+            "gray"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Maskhat",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 4770000,
+            "max": 4770000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Magic Fox Headdress",
+        "slot": "head",
+        "stats": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "brown",
+            "pink",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Mining Helmet",
+        "slot": "head",
+        "stats": [],
+        "cost": {
+            "min": 5000,
+            "max": 5000
+        },
+        "colors": [
+            "brown",
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Minion",
+        "slot": "head",
+        "stats": [],
+        "cost": {
+            "min": 7000000,
+            "max": 10000000
+        },
+        "colors": [
+            "brown",
+            "green"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Monster Mask",
+        "slot": "head",
+        "stats": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 100000,
+            "max": 100000
+        },
+        "colors": [
+            "green",
+            "red",
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Neon Flint's Cap",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 200000,
+            "max": 200000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "red",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Nightingale Mask",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "black",
+        "release": "sp"
+    },
+    {
+        "name": "Nightmare Visage",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Oculus Adcuratus",
+        "slot": "head",
+        "stats": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "black",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Otherworld Slug",
+        "slot": "head",
+        "stats": [
+            "magicDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "purple",
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "sp"
+    },
+    {
+        "name": "Outlaw's Cap",
+        "slot": "head",
+        "stats": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Philmore's Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2600000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Plain Fishmask",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Plasma Ghost Mask",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "orange"
+        ],
+        "outline": "red",
+        "release": "sp"
+    },
+    {
+        "name": "Propaganda Head",
+        "slot": "head",
+        "stats": [
+            "endurance"
+        ],
+        "cost": {
+            "min": 18000000,
+            "max": 20000000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Punk",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "white",
+        "release": "sp"
+    },
+    {
+        "name": "Puzzlehead",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 3000000,
+            "max": 3000000
+        },
+        "colors": [
+            "blue",
+            "green",
+            "red",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fs"
+    },
+    {
+        "name": "Red Yesterday Hat",
+        "slot": "head",
+        "stats": [
+            "endurance"
+        ],
+        "cost": {
+            "min": 50000,
+            "max": 50000
+        },
+        "colors": [
+            "green",
+            "red"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Strangeman's Mask",
+        "slot": "head",
+        "stats": [
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "gray",
+            "purple",
+            "red",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Tall Anthony",
+        "slot": "head",
+        "stats": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "white",
+        "release": "fs"
+    },
+    {
+        "name": "The Pommel's Helmet",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "gray",
+            "white"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Von Jerry's Hat of Illusion",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 6200000,
+            "max": 6500000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Yaaxil Flame",
+        "slot": "head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 3600000,
+            "max": 3750000
+        },
+        "colors": [
+            "black",
+            "green",
+            "orange",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Frog Costume #1 - Head",
+        "slot": "head",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "black",
+            "green",
+            "white"
+        ],
+        "outline": "green",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #2 - Head",
+        "slot": "head",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "purple",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #3 - Head",
+        "slot": "head",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 3500000,
+            "max": 3500000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "outline": "white",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #4 - Head",
+        "slot": "head",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "green",
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #5 - Head",
+        "slot": "head",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "nb"
+    },
+    {
+        "name": "Bronze Platebody",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 360,
+            "max": 360
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Iron Platebody",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 1400,
+            "max": 1400
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Cobalt Platebody",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 8900,
+            "max": 8900
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Titanium Platebody",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 35000,
+            "max": 35000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Gold Platebody",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 90000,
+            "max": 90000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Onyx Platebody",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 180000,
+            "max": 180000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Blue Wizard Robe Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 425000,
+            "max": 425000
+        },
+        "colors": [
+            "blue",
+            "brown"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Brash Knight Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 180000,
+            "max": 180000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Celestial Moon Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "pink",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Courting Knight Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 400000,
+            "max": 400000
+        },
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Dark Hunter Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 425000,
+            "max": 425000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Darkwood Warrior Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 1350000,
+            "max": 1350000
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Furnace Mummy Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2640000,
+            "max": 2640000
+        },
+        "colors": [
+            "black",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Galaxy Wizard Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 2640000,
+            "max": 2640000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "brown",
+            "pink",
+            "purple",
+            "white",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Guardian Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 3850000,
+            "max": 3850000
+        },
+        "colors": [
+            "blue",
+            "orange",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Hardened Bronze Platebody",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 200000,
+            "max": 200000
+        },
+        "colors": [
+            "gray",
+            "yellow"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Hedge Knight Torso",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 105000,
+            "max": 105000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Illuminator's Top",
+        "slot": "body",
+        "stats": [
+            "sightRange"
+        ],
+        "cost": {
+            "min": 50000,
+            "max": 50000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Ivory Chestpiece",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 400000,
+            "max": 400000
+        },
+        "colors": [
+            "brown",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Jade Assassin's Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Lagoon Spirit Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 1230000,
+            "max": 1230000
+        },
+        "colors": [
+            "blue",
+            "green"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Mortmud Wraps",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 160000,
+            "max": 160000
+        },
+        "colors": [
+            "brown",
+            "green"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Patched Torso",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 90000,
+            "max": 90000
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "green"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Razed General Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2640000,
+            "max": 2640000
+        },
+        "colors": [
+            "blue",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Red Wizard Robe Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 425000,
+            "max": 425000
+        },
+        "colors": [
+            "brown",
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Riveted Torso",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 35000,
+            "max": 35000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Skeleton Torso",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 200000,
+            "max": 200000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Spikeout Chestpiece",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 180000,
+            "max": 180000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Springtwig Torso",
+        "slot": "body",
+        "stats": [
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "brown",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Tomb Prowler Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 1230000,
+            "max": 1230000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Void Monster Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 1350000,
+            "max": 1350000
+        },
+        "colors": [
+            "black",
+            "purple",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Woodland Ranger Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 150000,
+            "max": 150000
+        },
+        "colors": [
+            "brown",
+            "green"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Zhuulaczar Armored Body",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 850000,
+            "max": 850000
+        },
+        "colors": [
+            "brown",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Chasm Magus Robe Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "sightRange"
+        ],
+        "cost": {
+            "min": 2700000,
+            "max": 2700000
+        },
+        "colors": [
+            "black",
+            "green",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Crabsuit Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "endurance",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1200000,
+            "max": 1200000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Gardendweller Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 700000,
+            "max": 700000
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "green",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Gauntlet Fury Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2700000
+        },
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Guild Knight Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4400000,
+            "max": 4400000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Knight's Army Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 2450000,
+            "max": 2600000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Odewig Armor",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 3000000,
+            "max": 3000000
+        },
+        "colors": [
+            "gray",
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Pettyganger's Parade Suit Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 4200000,
+            "max": 5000000
+        },
+        "colors": [
+            "gray",
+            "purple"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Poison Construct Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 2800000,
+            "max": 2800000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Rotted King's Chestpiece",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 3200000,
+            "max": 3500000
+        },
+        "colors": [
+            "black",
+            "brown",
+            "green"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Spellbound Mage Battledress",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2400000,
+            "max": 2400000
+        },
+        "colors": [
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Platebody of the Earth King Regalia",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "The Armor of Forgotten Things",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 4500000,
+            "max": 5000000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "The Vengeful Visage Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Tower Armor Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 3200000,
+            "max": 3200000
+        },
+        "colors": [
+            "blue",
+            "gray",
+            "red",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "ow"
+    },
+    {
+        "name": "Void Lord Chestpiece",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Wolfram Leader Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 2800000,
+            "max": 2800000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "World Sculptor's Armor",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Aquatic Explorer Armor",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "blue",
+            "gray"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Platebody of a Forgotten Life",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "black",
+            "gray"
+        ],
+        "outline": "red",
+        "release": "fs"
+    },
+    {
+        "name": "New Voice Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4200000,
+            "max": 4200000
+        },
+        "colors": [
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Romo Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fs"
+    },
+    {
+        "name": "Wisecrack Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "black",
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "fs"
+    },
+    {
+        "name": "Woodwhack Legionnaire Chestpiece",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "sightRange",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "brown",
+            "white",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Bedrock Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5200000,
+            "max": 5500000
+        },
+        "colors": [
+            "gray",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Corrupted Gold Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 7000000,
+            "max": 7000000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Corrupted Onyx Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 7000000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Court Jester Shirt",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "blue",
+            "green"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Falling Light Mage Robe Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Fire Spellbound Mage Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "orange",
+            "red",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Guttermouth Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 7500000,
+            "max": 7500000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "green",
+        "release": "rn"
+    },
+    {
+        "name": "Ice Spellbound Mage Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Nightmare Prowler Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 5800000,
+            "max": 6000000
+        },
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Pantry Leech Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Rising Dark Robe Top",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Roadblocks Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen",
+            "endurance",
+            "sightRange",
+            "walkSpeed",
+            "jumpPower",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 20000000,
+            "max": 20000000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "brown",
+            "gray",
+            "green",
+            "orange",
+            "pink",
+            "purple",
+            "red",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "The Drake's Shirt",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "brown",
+            "red",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "U-Life Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "hpRegen",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Wired Fury Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 5500000,
+            "max": 5500000
+        },
+        "colors": [
+            "red"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Green Spectral Vanguard Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "green",
+        "release": "nb"
+    },
+    {
+        "name": "Blue Spectral Vanguard Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "blue",
+        "release": "nb"
+    },
+    {
+        "name": "Purple Spectral Vanguard Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2600000,
+            "max": 2600000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "yellow",
+        "release": "nb"
+    },
+    {
+        "name": "Black Spectral Vanguard Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "colors": [
+            "black",
+            "green"
+        ],
+        "outline": "purple",
+        "release": "nb"
+    },
+    {
+        "name": "White Spectral Vanguard Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "colors": [
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "nb"
+    },
+    {
+        "name": "True Spectral Vanguard Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "blue",
+            "green",
+            "orange",
+            "pink",
+            "red",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "nb"
+    },
+    {
+        "name": "Fire Guild Knight Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 4800000
+        },
+        "colors": [
+            "orange",
+            "yellow"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Water Guild Knight Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 4800000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Temple Fool Torso",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5200000,
+            "max": 5200000
+        },
+        "colors": [
+            "black",
+            "green",
+            "red"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Machine Rug Platebody",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "gray",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "sp"
+    },
+    {
+        "name": "Broken Thumb Drillbit Emporium Chassis",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 25000000,
+            "max": 25000000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "yellow",
+        "release": "sp"
+    },
+    {
+        "name": "Adventurer's Armor",
+        "slot": "body",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5400000,
+            "max": 5400000
+        },
+        "colors": [
+            "blue",
+            "brown"
+        ],
+        "outline": "red",
+        "release": "sp"
+    },
+    {
+        "name": "Bandolier",
+        "slot": "body",
+        "stats": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 180000,
+            "max": 180000
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Enormous Huge Bill",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 100000000,
+            "max": 100000000
+        },
+        "colors": [
+            "red"
+        ],
+        "outline": "white",
+        "release": "sp"
+    },
+    {
+        "name": "Green-Black Jacket",
+        "slot": "body",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Frog Costume #1 - Torso",
+        "slot": "body",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "green",
+            "white"
+        ],
+        "outline": "green",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #2 - Torso",
+        "slot": "body",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "purple",
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #3 - Torso",
+        "slot": "body",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 3500000,
+            "max": 3500000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "orange",
+            "white"
+        ],
+        "outline": "white",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #4 - Torso",
+        "slot": "body",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "green",
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #5 - Torso",
+        "slot": "body",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "purple",
+        "release": "nb"
+    },
+    {
+        "name": "Bronze Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 280,
+            "max": 280
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Iron Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 1100,
+            "max": 1100
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Cobalt Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 7100,
+            "max": 7100
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Titanium Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 28000,
+            "max": 28000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Gold Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 70000,
+            "max": 70000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Onyx Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 140000,
+            "max": 140000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Blue Wizard Robe Bottom",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 340000,
+            "max": 340000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Brash Knight Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 140000,
+            "max": 140000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Celestial Robe Bottom",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 840000,
+            "max": 840000
+        },
+        "colors": [
+            "pink",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Courting Knight Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 280000,
+            "max": 280000
+        },
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Dark Hunter Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 340000,
+            "max": 340000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Darkwood Warrior Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Furnace Mummy Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2100000,
+            "max": 2100000
+        },
+        "colors": [
+            "black",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Galaxy Wizard Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 2100000,
+            "max": 2100000
+        },
+        "colors": [
+            "blue",
+            "green",
+            "orange",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Guardian Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 3000000,
+            "max": 3000000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Hardened Bronze Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 160000,
+            "max": 160000
+        },
+        "colors": [
+            "brown",
+            "yellow"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Hedge Knight Legs",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 85000,
+            "max": 85000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Illuminator's Pants",
+        "slot": "legs",
+        "stats": [
+            "sightRange"
+        ],
+        "cost": {
+            "min": 50000,
+            "max": 50000
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Ivory Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "brown",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Jade Assassin's Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 190000,
+            "max": 190000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Lagoon Spirit Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 980000,
+            "max": 980000
+        },
+        "colors": [
+            "blue",
+            "green"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Mortmud Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 120000,
+            "max": 120000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Patched Legs",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 70000,
+            "max": 70000
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "green"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Razed General Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2100000,
+            "max": 2100000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Red Wizard Robe Bottom",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 340000,
+            "max": 340000
+        },
+        "colors": [
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Riveted Shorts",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 28000,
+            "max": 28000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Skeleton Legs",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 200000,
+            "max": 200000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Spikeout Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 140000,
+            "max": 140000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Springtwig Legs",
+        "slot": "legs",
+        "stats": [
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Tomb Prowler Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 980000,
+            "max": 980000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Void Monster Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Woodland Ranger Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 120000,
+            "max": 120000
+        },
+        "colors": [
+            "brown",
+            "green"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Zhuulaczar Legs",
+        "slot": "legs",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 300000,
+            "max": 300000
+        },
+        "colors": [
+            "brown",
+            "yellow"
+        ],
+        "outline": "",
+        "release": "fr"
+    },
+    {
+        "name": "Chasm Magus Robe Bottom",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "sightRange"
+        ],
+        "cost": {
+            "min": 2200000,
+            "max": 2200000
+        },
+        "colors": [
+            "black",
+            "green"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Crabsuit Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "endurance",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Gardendweller Pants",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 480000,
+            "max": 480000
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "green",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Gauntlet Fury Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 2050000,
+            "max": 2200000
+        },
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Guild Knight Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 3800000,
+            "max": 3800000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Knight's Army Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 2150000,
+            "max": 2400000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Odewig Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "gray",
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Pettyganger's Parade Legwarmers",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 4200000,
+            "max": 5000000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Poison Construct Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 2400000,
+            "max": 2400000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Rotted King's Escort",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 3200000,
+            "max": 3500000
+        },
+        "colors": [
+            "black",
+            "brown",
+            "green"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Spellbound Mage Skirt",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2000000,
+            "max": 2000000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Platelegs of the Earth King Regalia",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [
+            "black",
+            "green"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "The Platelegs of Forgotten Things",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 4500000,
+            "max": 5000000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "The Vengeful Visage Bottoms",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 2200000,
+            "max": 2200000
+        },
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Tower Armor Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 2800000,
+            "max": 2800000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "white",
+        "release": "ow"
+    },
+    {
+        "name": "Void Lord Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Wolfram Leader Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 2400000,
+            "max": 2400000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "World Sculptor's Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [],
+        "outline": "",
+        "release": "ow"
+    },
+    {
+        "name": "Aquatic Explorer Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 3800000,
+            "max": 3800000
+        },
+        "colors": [
+            "blue",
+            "gray"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Platelegs of a Forgotten Life",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 6000000,
+            "max": 6000000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "red",
+        "release": "fs"
+    },
+    {
+        "name": "New Voice Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Romo Robo-Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 7500000,
+            "max": 7500000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fs"
+    },
+    {
+        "name": "Wisecrack Leggings",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "black",
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "fs"
+    },
+    {
+        "name": "Wooden Shorts",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "sightRange",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 2200000,
+            "max": 2200000
+        },
+        "colors": [
+            "brown",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Bedrock Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5200000,
+            "max": 5500000
+        },
+        "colors": [
+            "gray",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Corrupted Gold Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 7000000,
+            "max": 7000000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Corrupted Onyx Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 7000000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Court Jester Pants",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "blue",
+            "green"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Falling Light Mage Robe Bottoms",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Fire Spellbound Mage Skirt",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "orange",
+            "red",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Guttermouth Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 7500000,
+            "max": 7500000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "green",
+        "release": "rn"
+    },
+    {
+        "name": "Ice Spellbound Mage Skirt",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Nightmare Prowler Leggings",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 5800000,
+            "max": 6000000
+        },
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Pantry Leech Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Rising Dark Robe Bottoms",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Roadblocks Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen",
+            "endurance",
+            "sightRange",
+            "walkSpeed",
+            "jumpPower",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 20000000,
+            "max": 20000000
+        },
+        "colors": [
+            "blue",
+            "green",
+            "orange",
+            "purple",
+            "red",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "The Drake's Pants",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "red",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "U-Life Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "hpRegen",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Wired Fury Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 5500000,
+            "max": 5500000
+        },
+        "colors": [
+            "red"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Green Spectral Vanguard Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "green",
+        "release": "nb"
+    },
+    {
+        "name": "Blue Spectral Vanguard Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "blue",
+        "release": "nb"
+    },
+    {
+        "name": "Purple Spectral Vanguard Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2600000,
+            "max": 2600000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "yellow",
+        "release": "nb"
+    },
+    {
+        "name": "Black Spectral Vanguard Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "purple",
+        "release": "nb"
+    },
+    {
+        "name": "White Spectral Vanguard Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "red",
+        "release": "nb"
+    },
+    {
+        "name": "True Spectral Vanguard Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "nb"
+    },
+    {
+        "name": "Fire Guild Knight Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 4800000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Water Guild Knight Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 4800000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Temple Fool Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5200000,
+            "max": 5200000
+        },
+        "colors": [
+            "black",
+            "green",
+            "red"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Machine Rug Platelegs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "gray",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "sp"
+    },
+    {
+        "name": "Robotic Biological Chemistry Legs",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 25000000,
+            "max": 25000000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "yellow",
+        "release": "sp"
+    },
+    {
+        "name": "Adventurer's Guard",
+        "slot": "legs",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5400000,
+            "max": 5400000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "red",
+        "release": "sp"
+    },
+    {
+        "name": "Frog Costume #1 - Legs",
+        "slot": "legs",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "green",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #2 - Legs",
+        "slot": "legs",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "purple",
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #3 - Legs",
+        "slot": "legs",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 3500000,
+            "max": 3500000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "orange"
+        ],
+        "outline": "white",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #4 - Legs",
+        "slot": "legs",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "green",
+            "red"
+        ],
+        "outline": "red",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #5 - Legs",
+        "slot": "legs",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "purple",
+        "release": "nb"
+    },
+    {
+        "name": "Bronze Boots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 220,
+            "max": 220
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Iron Boots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 850,
+            "max": 850
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Cobalt Boots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5300,
+            "max": 5300
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Titanium Boots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 21000,
+            "max": 21000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Gold Boots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 54000,
+            "max": 54000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Onyx Boots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 110000,
+            "max": 110000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Black Shoes",
+        "slot": "feet",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2000,
+            "max": 2000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Brown Shoes",
+        "slot": "feet",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2000,
+            "max": 2000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Green Shoes",
+        "slot": "feet",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 9900,
+            "max": 9900
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Red Shoes",
+        "slot": "feet",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2000,
+            "max": 2000
+        },
+        "colors": [
+            "red"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "White Shoes",
+        "slot": "feet",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2000,
+            "max": 2000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Guardian Lower Legs",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "walkSpeed",
+            "height"
+        ],
+        "cost": {
+            "min": 1350000,
+            "max": 1350000
+        },
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Black Supershoes",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Clown Shoes",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "blue",
+            "orange",
+            "red",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Dark Powerboots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Golden Powerboots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Green Powerboots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Grey Supershoes",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Jump Boots",
+        "slot": "feet",
+        "stats": [
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 50000,
+            "max": 50000
+        },
+        "colors": [
+            "black",
+            "orange"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Nightmare Boots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Otherworld Boots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "endurance",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Phantom Boots",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 50000,
+            "max": 50000
+        },
+        "colors": [
+            "none"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Red Supershoes",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Spider Stilts",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower",
+            "height"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Tag Red Lazer",
+        "slot": "feet",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 7000000,
+            "max": 10000000
+        },
+        "colors": [
+            "red"
+        ],
+        "outline": "black",
+        "release": "sp"
+    },
+    {
+        "name": "Blue Eye Amulet",
+        "slot": "neck",
+        "stats": [
+            "rangedDmg",
+            "sightRange"
+        ],
+        "cost": {
+            "min": 120000,
+            "max": 120000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "white"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Green Crystal Amulet",
+        "slot": "neck",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "black",
+            "brown",
+            "green"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Peapod Necklace",
+        "slot": "neck",
+        "stats": [
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 225000,
+            "max": 225000
+        },
+        "colors": [
+            "green",
+            "orange",
+            "white",
+            "yellow"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Radiant Medallion",
+        "slot": "neck",
+        "stats": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "sp"
+    },
+    {
+        "name": "Seer's Pendant I",
+        "slot": "neck",
+        "stats": [
+            "sightRange"
+        ],
+        "cost": {
+            "min": 25000,
+            "max": 25000
+        },
+        "colors": [
+            "orange",
+            "white",
+            "yellow"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Seer's Pendant II",
+        "slot": "neck",
+        "stats": [
+            "sightRange"
+        ],
+        "cost": {
+            "min": 150000,
+            "max": 150000
+        },
+        "colors": [
+            "white",
+            "yellow"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Shattered Blade Necklace",
+        "slot": "neck",
+        "stats": [],
+        "cost": {
+            "min": 1500000,
+            "max": 1500000
+        },
+        "colors": [
+            "black",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Tri-Color Necklace",
+        "slot": "neck",
+        "stats": [
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 555000,
+            "max": 555000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Vital Pendant",
+        "slot": "neck",
+        "stats": [
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 1200000,
+            "max": 1200000
+        },
+        "colors": [
+            "black",
+            "brown",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Angel Wings",
+        "slot": "back",
+        "stats": [],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Dark Angel Wings",
+        "slot": "back",
+        "stats": [],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Dreamnet",
+        "slot": "back",
+        "stats": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 744000,
+            "max": 744000
+        },
+        "colors": [
+            "brown",
+            "purple"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Emperor's Cape",
+        "slot": "back",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 1100000,
+            "max": 1100000
+        },
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "outline": "green",
+        "release": "rn"
+    },
+    {
+        "name": "Eyes of the Sword",
+        "slot": "back",
+        "stats": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 700000,
+            "max": 750000
+        },
+        "colors": [
+            "black",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Meeting Remnant",
+        "slot": "back",
+        "stats": [
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Ranger's Backpack",
+        "slot": "back",
+        "stats": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 700000,
+            "max": 755000
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Coral Ring",
+        "slot": "ring",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 85000,
+            "max": 85000
+        },
+        "colors": [
+            "brown",
+            "red",
+            "white"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Hightower Ring",
+        "slot": "ring",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 750000,
+            "max": 750000
+        },
+        "colors": [
+            "gray",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Mud Ring",
+        "slot": "ring",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "brown",
+            "purple"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Ring of Power",
+        "slot": "ring",
+        "stats": [
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Ring of the Five Knights",
+        "slot": "ring",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "blue",
+            "gray",
+            "pink",
+            "white",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Scorched Soul's Ring",
+        "slot": "ring",
+        "stats": [
+            "magicDmg",
+            "meleeDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "brown",
+            "orange",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Strange Creature Ring",
+        "slot": "ring",
+        "stats": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 880000,
+            "max": 880000
+        },
+        "colors": [
+            "green",
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Tough Green Ring",
+        "slot": "ring",
+        "stats": [
+            "endurance"
+        ],
+        "cost": {
+            "min": 100000,
+            "max": 100000
+        },
+        "colors": [
+            "black",
+            "green"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Ancient Dragon Horns",
+        "slot": "misc",
+        "stats": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 550000,
+            "max": 550000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Antennae",
+        "slot": "misc",
+        "stats": [
+            "sightRange"
+        ],
+        "cost": {
+            "min": 20000,
+            "max": 20000
+        },
+        "colors": [
+            "black",
+            "brown",
+            "green"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Antlers",
+        "slot": "misc",
+        "stats": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Big Orange Eyes",
+        "slot": "misc",
+        "stats": [
+            "sightRange"
+        ],
+        "cost": {
+            "min": 505000,
+            "max": 505000
+        },
+        "colors": [
+            "black",
+            "orange",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Black Antlers",
+        "slot": "misc",
+        "stats": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Brain Monocle",
+        "slot": "misc",
+        "stats": [
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "black",
+            "gray",
+            "red"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Bunny Ears",
+        "slot": "misc",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "pink",
+            "white"
+        ],
+        "outline": "blue",
+        "release": "sp"
+    },
+    {
+        "name": "Enchanted Spectacles",
+        "slot": "misc",
+        "stats": [
+            "magicDmg",
+            "sightRange"
+        ],
+        "cost": {
+            "min": 50000,
+            "max": 50000
+        },
+        "colors": [
+            "purple",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Front Bullet Pack",
+        "slot": "misc",
+        "stats": [
+            "rangedDmg",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 1200000,
+            "max": 1200000
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Gold Antlers",
+        "slot": "misc",
+        "stats": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Pirate Hook",
+        "slot": "misc",
+        "stats": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "purple",
+        "release": "sp"
+    },
+    {
+        "name": "Ranger Spectacles",
+        "slot": "misc",
+        "stats": [
+            "rangedDmg",
+            "sightRange"
+        ],
+        "cost": {
+            "min": 50000,
+            "max": 50000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Shades",
+        "slot": "misc",
+        "stats": [
+            "sightRange"
+        ],
+        "cost": {
+            "min": 100000,
+            "max": 100000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Spectacles",
+        "slot": "misc",
+        "stats": [
+            "sightRange"
+        ],
+        "cost": {
+            "min": 15000,
+            "max": 15000
+        },
+        "colors": [
+            "blue",
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Spooky Grin",
+        "slot": "misc",
+        "stats": [
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 220000,
+            "max": 250000
+        },
+        "colors": [
+            "black",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Xenoculous",
+        "slot": "misc",
+        "stats": [
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 485000,
+            "max": 500000
+        },
+        "colors": [
+            "black",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Yaaxil Crest",
+        "slot": "misc",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 800000,
+            "max": 800000
+        },
+        "colors": [
+            "black",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    }
+]
