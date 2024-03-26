@@ -1,0 +1,2341 @@
+[
+    {
+        "name": "Bronze Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 140,
+            "max": 140
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Iron Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 560,
+            "max": 560
+        },
+        "colors": [
+            "black",
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Cobalt Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 3500,
+            "max": 3500
+        },
+        "colors": [
+            "black",
+            "blue"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Titanium Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 14000,
+            "max": 14000
+        },
+        "colors": [
+            "black",
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Gold Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 35000,
+            "max": 35000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Onyx Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 70000,
+            "max": 70000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Blue Wizard Hat",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 185000,
+            "max": 185000
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Brash Knight Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 70000,
+            "max": 70000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Celestial Moon Hat",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "pink",
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Courting Knight Helmet",
+        "stats": [
+            "armor",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 160000,
+            "max": 160000
+        },
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Dark Hunter Hat",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 185000,
+            "max": 185000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Darkwood Warrior Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 600000,
+            "max": 600000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Furnace Mummy Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 1260000,
+            "max": 1260000
+        },
+        "colors": [
+            "black",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Galaxy Wizard Hat",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 1260000,
+            "max": 1260000
+        },
+        "colors": [
+            "green",
+            "purple",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Guardian Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Hardened Bronze Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 100000,
+            "max": 100000
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Hedge Knight Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 45000,
+            "max": 45000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Illuminator's Hat",
+        "stats": [
+            "sightRange"
+        ],
+        "cost": {
+            "min": 75000,
+            "max": 75000
+        },
+        "colors": [
+            "black",
+            "brown",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Ivory Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 300000,
+            "max": 300000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Jade Assassin's Mask",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 115000,
+            "max": 115000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Lagoon Spirit Head",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 590000,
+            "max": 590000
+        },
+        "colors": [
+            "blue",
+            "green",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Mortmud Hood",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 65000,
+            "max": 65000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Patched Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 35000,
+            "max": 35000
+        },
+        "colors": [
+            "green",
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Razed General Hat",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 1260000,
+            "max": 1260000
+        },
+        "colors": [
+            "blue",
+            "orange",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Red Wizard Hat",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 185000,
+            "max": 185000
+        },
+        "colors": [
+            "brown",
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Riveted Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 14000,
+            "max": 14000
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Skull",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 200000,
+            "max": 200000
+        },
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Spikeout Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 70000,
+            "max": 70000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Springtwig Eye",
+        "stats": [
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "brown",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Tomb Prowler Hat",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 590000,
+            "max": 590000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Void Monster Mask",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 600000,
+            "max": 600000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Woodland Ranger Hat",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 90000,
+            "max": 90000
+        },
+        "colors": [
+            "brown",
+            "green"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Zhuulaczar Crown",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "brown",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Chasm Magus Hat",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "sightRange"
+        ],
+        "cost": {
+            "min": 1500000,
+            "max": 1500000
+        },
+        "colors": [
+            "green",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Crabsuit Headgear",
+        "stats": [
+            "armor",
+            "endurance",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 800000,
+            "max": 800000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Gardendweller's Hat",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 320000,
+            "max": 320000
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Gauntlet Fury Helmet",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 1350000,
+            "max": 1500000
+        },
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Guild Knight Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4200000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Knight's Army Core",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 2000000
+        },
+        "colors": [
+            "gray",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Odewig Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2000000,
+            "max": 2000000
+        },
+        "colors": [
+            "gray",
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Pettyganger's Parade Mask",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 4200000,
+            "max": 5000000
+        },
+        "colors": [
+            "black",
+            "gray",
+            "blue",
+            "green",
+            "pink",
+            "white",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Poison Construct Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Rotted King's Mask",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 3200000,
+            "max": 3500000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "green"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Spellbound Mage Hood",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 1400000,
+            "max": 1400000
+        },
+        "colors": [
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Earth King Regalia",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "The Mask of Forgotten Things",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 4500000,
+            "max": 5000000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "The Vengeful Visage",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 2000000,
+            "max": 2000000
+        },
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Void Lord Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Wolfram Leader Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "colors": [
+            "brown",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "World Sculptor's Helmet",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "colors": [
+            "green",
+            "white"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Aquatic Explorer Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 3800000,
+            "max": 3800000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "gray"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Helm of the Skater",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 6800000,
+            "max": 7500000
+        },
+        "colors": [
+            "black",
+            "gray",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "fs"
+    },
+    {
+        "name": "New Voice Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4400000,
+            "max": 4400000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Romo Helmet",
+        "stats": [
+            "armor",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 8800000,
+            "max": 8800000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "gray",
+            "orange",
+            "red",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fs"
+    },
+    {
+        "name": "Wisecrack Skull",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 4500000,
+            "max": 4500000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "green",
+            "pink",
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "fs"
+    },
+    {
+        "name": "Woodwhack Legionnaire Helmet",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "sightRange",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "colors": [
+            "gray",
+            "brown",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Bedrock Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5200000,
+            "max": 5500000
+        },
+        "colors": [
+            "gray",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Corrupted Gold Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 7000000,
+            "max": 7000000
+        },
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Corrupted Onyx Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 7000000
+        },
+        "colors": [
+            "black",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Falling Light Mask",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Fire Hood",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "brown",
+            "orange",
+            "red"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Guttermouth Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 7500000,
+            "max": 7500000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "green",
+        "release": "rn"
+    },
+    {
+        "name": "Ice Hood",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Nightmare Prowler Hat",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 5800000,
+            "max": 6000000
+        },
+        "colors": [
+            "blue",
+            "gray",
+            "red",
+            "yellow"
+        ],
+        "outline": "",
+        "release": "rn"
+    },
+    {
+        "name": "Pantry Leech Head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "black",
+            "gray",
+            "green"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Rising Dark Mask",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Roadblocks Head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen",
+            "endurance",
+            "sightRange",
+            "walkSpeed",
+            "jumpPower",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 20000000,
+            "max": 20000000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "green",
+            "red",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "U-Life Helmet",
+        "stats": [
+            "armor",
+            "rangedDmg",
+            "hpRegen",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "white",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Wired Fury Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 5500000,
+            "max": 5500000
+        },
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Green Spectral Vanguard Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "green",
+        "release": "nb"
+    },
+    {
+        "name": "Blue Spectral Vanguard Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "blue",
+        "release": "nb"
+    },
+    {
+        "name": "Purple Spectral Vanguard Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2600000,
+            "max": 2600000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "yellow",
+        "release": "nb"
+    },
+    {
+        "name": "Black Spectral Vanguard Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "colors": [
+            "black",
+            "green"
+        ],
+        "outline": "purple",
+        "release": "nb"
+    },
+    {
+        "name": "White Spectral Vanguard Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "colors": [
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "nb"
+    },
+    {
+        "name": "True Spectral Vanguard Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "green",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "nb"
+    },
+    {
+        "name": "Fire Guild Knight Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 4800000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Water Guild Knight Helmet",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "hpRegen",
+            "endurance"
+        ],
+        "cost": {
+            "min": 4800000,
+            "max": 4800000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Temple Fool Head",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5200000,
+            "max": 5200000
+        },
+        "colors": [
+            "black",
+            "green",
+            "red"
+        ],
+        "outline": "green",
+        "release": "sp"
+    },
+    {
+        "name": "Machine Rug Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "yellow",
+        "release": "sp"
+    },
+    {
+        "name": "Mr. Techy Techy Head Protector",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance",
+            "ammoReturn"
+        ],
+        "cost": {
+            "min": 25000000,
+            "max": 25000000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "yellow",
+        "release": "sp"
+    },
+    {
+        "name": "Royal Bronze Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "blue",
+        "release": "rn"
+    },
+    {
+        "name": "Royal Iron Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Royal Cobalt Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "blue"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Royal Titanium Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Royal Gold Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Royal Onyx Helmet",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "blue",
+        "release": "fr"
+    },
+    {
+        "name": "Brickland",
+        "stats": [
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 6000000,
+            "max": 7000000
+        },
+        "colors": [
+            "brown",
+            "green"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Century Cube",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 8800000,
+            "max": 8800000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Clever Cube",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2200000,
+            "max": 2200000
+        },
+        "colors": [
+            "black",
+            "pink",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Corrupted Wizard's Helmet",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Cosmic Ghost Mask",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "purple",
+            "red"
+        ],
+        "outline": "black",
+        "release": "sp"
+    },
+    {
+        "name": "Crescent Coralhead",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 650000,
+            "max": 650000
+        },
+        "colors": [
+            "blue",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Criminal's Tallhat",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5100000
+        },
+        "colors": [
+            "black",
+            "brown",
+            "gray"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Dark Ghost Mask",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "pink",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Detour Cone",
+        "stats": [
+            "armor",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 5200000,
+            "max": 5200000
+        },
+        "colors": [
+            "green",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Far North Mask",
+        "stats": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 2235000,
+            "max": 2235000
+        },
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "outline": "white",
+        "release": "ow"
+    },
+    {
+        "name": "Fashion Hat",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 1200000,
+            "max": 1200000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "green",
+        "release": "rn"
+    },
+    {
+        "name": "Fear",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 50000000,
+            "max": 50000000
+        },
+        "colors": [
+            "black",
+            "red",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "sp"
+    },
+    {
+        "name": "Ghost Mask",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Gold",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 50000000,
+            "max": 50000000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "sp"
+    },
+    {
+        "name": "Hive Crown",
+        "stats": [
+            "magicDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 1200000,
+            "max": 1200000
+        },
+        "colors": [
+            "green",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Kitchen Cube",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 880000,
+            "max": 880000
+        },
+        "colors": [
+            "black",
+            "blue"
+        ],
+        "outline": "blue",
+        "release": "rn"
+    },
+    {
+        "name": "Krunkston Four",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 9000000,
+            "max": 10000000
+        },
+        "colors": [
+            "blue",
+            "gray"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Maskhat",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 4770000,
+            "max": 4770000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Magic Fox Headdress",
+        "stats": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "brown",
+            "pink",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Mining Helmet",
+        "stats": [],
+        "cost": {
+            "min": 5000,
+            "max": 5000
+        },
+        "colors": [
+            "brown",
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Minion",
+        "stats": [],
+        "cost": {
+            "min": 7000000,
+            "max": 10000000
+        },
+        "colors": [
+            "brown",
+            "green"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Monster Mask",
+        "stats": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 100000,
+            "max": 100000
+        },
+        "colors": [
+            "green",
+            "red",
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Neon Flint's Cap",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 200000,
+            "max": 200000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "red",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Nightingale Mask",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "black",
+        "release": "sp"
+    },
+    {
+        "name": "Nightmare Visage",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Oculus Adcuratus",
+        "stats": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "black",
+            "orange"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Otherworld Slug",
+        "stats": [
+            "magicDmg",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "purple",
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "sp"
+    },
+    {
+        "name": "Outlaw's Cap",
+        "stats": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Philmore's Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2600000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Plain Fishmask",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "fs"
+    },
+    {
+        "name": "Plasma Ghost Mask",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "orange"
+        ],
+        "outline": "red",
+        "release": "sp"
+    },
+    {
+        "name": "Propaganda Head",
+        "stats": [
+            "endurance"
+        ],
+        "cost": {
+            "min": 18000000,
+            "max": 20000000
+        },
+        "colors": [
+            "blue",
+            "red",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Punk",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "white",
+        "release": "sp"
+    },
+    {
+        "name": "Puzzlehead",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 3000000,
+            "max": 3000000
+        },
+        "colors": [
+            "blue",
+            "green",
+            "red",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fs"
+    },
+    {
+        "name": "Red Yesterday Hat",
+        "stats": [
+            "endurance"
+        ],
+        "cost": {
+            "min": 50000,
+            "max": 50000
+        },
+        "colors": [
+            "green",
+            "red"
+        ],
+        "outline": "red",
+        "release": "rn"
+    },
+    {
+        "name": "Strangeman's Mask",
+        "stats": [
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "gray",
+            "purple",
+            "red",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Tall Anthony",
+        "stats": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "white",
+        "release": "fs"
+    },
+    {
+        "name": "The Pommel's Helmet",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "gray",
+            "white"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Von Jerry's Hat of Illusion",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 6200000,
+            "max": 6500000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "ow"
+    },
+    {
+        "name": "Yaaxil Flame",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 3600000,
+            "max": 3750000
+        },
+        "colors": [
+            "black",
+            "green",
+            "orange",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow"
+    },
+    {
+        "name": "Frog Costume #1 - Head",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "black",
+            "green",
+            "white"
+        ],
+        "outline": "green",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #2 - Head",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "purple",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #3 - Head",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 3500000,
+            "max": 3500000
+        },
+        "colors": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "outline": "white",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #4 - Head",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "green",
+            "red",
+            "white"
+        ],
+        "outline": "red",
+        "release": "nb"
+    },
+    {
+        "name": "Frog Costume #5 - Head",
+        "stats": [
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "black",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "nb"
+    }
+]

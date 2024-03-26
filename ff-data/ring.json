@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Coral Ring",
+        "stats": [
+            "armor",
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 85000,
+            "max": 85000
+        },
+        "colors": [
+            "brown",
+            "red",
+            "white"
+        ],
+        "outline": "green",
+        "release": "fr"
+    },
+    {
+        "name": "Hightower Ring",
+        "stats": [
+            "armor",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 750000,
+            "max": 750000
+        },
+        "colors": [
+            "gray",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Mud Ring",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "brown",
+            "purple"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Ring of Power",
+        "stats": [
+            "meleeDmg",
+            "endurance"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Ring of the Five Knights",
+        "stats": [
+            "armor"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "blue",
+            "gray",
+            "pink",
+            "white",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Scorched Soul's Ring",
+        "stats": [
+            "magicDmg",
+            "meleeDmg",
+            "hpRegen"
+        ],
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "colors": [
+            "brown",
+            "orange",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Strange Creature Ring",
+        "stats": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 880000,
+            "max": 880000
+        },
+        "colors": [
+            "green",
+            "purple",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Tough Green Ring",
+        "stats": [
+            "endurance"
+        ],
+        "cost": {
+            "min": 100000,
+            "max": 100000
+        },
+        "colors": [
+            "black",
+            "green"
+        ],
+        "outline": "green",
+        "release": "fr"
+    }
+]

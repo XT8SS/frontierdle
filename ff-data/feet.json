@@ -1,0 +1,414 @@
+[
+    {
+        "name": "Bronze Boots",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 220,
+            "max": 220
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Iron Boots",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 850,
+            "max": 850
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Cobalt Boots",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 5300,
+            "max": 5300
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Titanium Boots",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 21000,
+            "max": 21000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Gold Boots",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 54000,
+            "max": 54000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Onyx Boots",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 110000,
+            "max": 110000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Black Shoes",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2000,
+            "max": 2000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Brown Shoes",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2000,
+            "max": 2000
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Green Shoes",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 9900,
+            "max": 9900
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Red Shoes",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2000,
+            "max": 2000
+        },
+        "colors": [
+            "red"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "White Shoes",
+        "stats": [
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 2000,
+            "max": 2000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr"
+    },
+    {
+        "name": "Guardian Lower Legs",
+        "stats": [
+            "armor",
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg",
+            "walkSpeed",
+            "height"
+        ],
+        "cost": {
+            "min": 1350000,
+            "max": 1350000
+        },
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Black Supershoes",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Clown Shoes",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "blue",
+            "orange",
+            "red",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "rn"
+    },
+    {
+        "name": "Dark Powerboots",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Golden Powerboots",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Green Powerboots",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "green"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Grey Supershoes",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Jump Boots",
+        "stats": [
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 50000,
+            "max": 50000
+        },
+        "colors": [
+            "black",
+            "orange"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Nightmare Boots",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "rn"
+    },
+    {
+        "name": "Otherworld Boots",
+        "stats": [
+            "armor",
+            "endurance",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "white",
+        "release": "rn"
+    },
+    {
+        "name": "Phantom Boots",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 50000,
+            "max": 50000
+        },
+        "colors": [
+            "none"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Red Supershoes",
+        "stats": [
+            "armor",
+            "walkSpeed"
+        ],
+        "cost": {
+            "min": 250000,
+            "max": 250000
+        },
+        "colors": [
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "fr"
+    },
+    {
+        "name": "Spider Stilts",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower",
+            "height"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "purple",
+        "release": "fr"
+    },
+    {
+        "name": "Tag Red Lazer",
+        "stats": [
+            "armor",
+            "walkSpeed",
+            "jumpPower"
+        ],
+        "cost": {
+            "min": 7000000,
+            "max": 10000000
+        },
+        "colors": [
+            "red"
+        ],
+        "outline": "black",
+        "release": "sp"
+    }
+]
