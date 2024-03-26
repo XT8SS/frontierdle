@@ -14,7 +14,9 @@
             "brown"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "e/e4/Bronze_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Bronze"
     },
     {
         "name": "Iron Helmet",
@@ -31,7 +33,9 @@
             "gray"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "f/f7/Iron_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Iron"
     },
     {
         "name": "Cobalt Helmet",
@@ -48,7 +52,9 @@
             "blue"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "c/c3/Cobalt_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Cobalt"
     },
     {
         "name": "Titanium Helmet",
@@ -65,7 +71,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "a/ad/Titanium_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Titanium"
     },
     {
         "name": "Gold Helmet",
@@ -82,7 +90,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "5/59/Gold_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Gold"
     },
     {
         "name": "Onyx Helmet",
@@ -98,7 +108,9 @@
             "black"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "6/66/Onyx_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Onyx"
     },
     {
         "name": "Blue Wizard Hat",
@@ -116,7 +128,9 @@
             "brown"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "f/f8/BlueWizardHat.png",
+        "link": "Blue_Wizard_Set#Hat"
     },
     {
         "name": "Brash Knight Helmet",
@@ -134,7 +148,9 @@
             "gray"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "3/35/Brash_Knight_Helmet.png",
+        "link": "Brash_Knight_Set#Helmet"
     },
     {
         "name": "Celestial Moon Hat",
@@ -154,7 +170,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "d/dc/CelestialMoonHat.png",
+        "link": "Celestial_Moon_Set#Hat"
     },
     {
         "name": "Courting Knight Helmet",
@@ -172,7 +190,9 @@
             "red"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/17/Courting_Knight_Helmet.png",
+        "link": "Courting_Knight_Set#Helmet"
     },
     {
         "name": "Dark Hunter Hat",
@@ -189,7 +209,9 @@
             "black"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "c/cb/DarkHunterHat.png",
+        "link": "Dark_Hunter_Set#Hat"
     },
     {
         "name": "Darkwood Warrior Helmet",
@@ -208,7 +230,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/14/Darkwood_Warrior_Helmet.png",
+        "link": "Darkwood_Warrior_Set#Helmet"
     },
     {
         "name": "Furnace Mummy Helmet",
@@ -226,7 +250,9 @@
             "orange"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "e/e3/FurnaceMummyHelmet.png",
+        "link": "Furnace_Mummy_Set#Helmet"
     },
     {
         "name": "Galaxy Wizard Hat",
@@ -245,7 +271,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "6/6d/GalaxyWizardHat.png",
+        "link": "Galaxy_Wizard_Set#Hat"
     },
     {
         "name": "Guardian Helmet",
@@ -265,7 +293,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/9b/GuardianHelmet.png",
+        "link": "Guardian_Set#Helmet"
     },
     {
         "name": "Hardened Bronze Helmet",
@@ -282,7 +312,9 @@
             "brown"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "2/21/HardenedBronzeHelmet.png",
+        "link": "Hardened_Bronze_Set#Helmet"
     },
     {
         "name": "Hedge Knight Helmet",
@@ -298,7 +330,9 @@
             "brown"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "c/c5/Hedge_Knight_Helmet.png",
+        "link": "Hedge_Knight's_Set#Helmet"
     },
     {
         "name": "Illuminator's Hat",
@@ -316,7 +350,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/00/Illuminators_Hat.png",
+        "link": "Illuminator_Set#Hat"
     },
     {
         "name": "Ivory Helmet",
@@ -333,7 +369,9 @@
             "white"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "d/d4/Ivory_Helmet.png",
+        "link": "Ivory_Set#Helmet"
     },
     {
         "name": "Jade Assassin's Mask",
@@ -351,7 +389,9 @@
             "gray"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "2/2f/Jade_Assassin's_Mask.png",
+        "link": "Jade_Assassin's_Set#Mask"
     },
     {
         "name": "Lagoon Spirit Head",
@@ -370,7 +410,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/1a/LagoonSpiritHead.png",
+        "link": "Lagoon_Spirit_Set#Head"
     },
     {
         "name": "Mortmud Hood",
@@ -387,7 +429,9 @@
             "brown"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/1a/Mortmud_Hood.png",
+        "link": "Mortmud_Set#Hood"
     },
     {
         "name": "Patched Helmet",
@@ -404,7 +448,9 @@
             "gray"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "a/a9/PatchedHelmet.png",
+        "link": "Patched_Set#Helmet"
     },
     {
         "name": "Razed General Hat",
@@ -423,7 +469,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "2/26/Razed_General_Hat.png",
+        "link": "Razed_General_Set#Hat"
     },
     {
         "name": "Red Wizard Hat",
@@ -441,7 +489,9 @@
             "red"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "e/e5/RedWizardHat.png",
+        "link": "Red_Wizard_Set#Hat"
     },
     {
         "name": "Riveted Helmet",
@@ -457,7 +507,9 @@
             "green"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/1f/Riveted_Helmet.png",
+        "link": "Riveted_Set#Helmet"
     },
     {
         "name": "Skull",
@@ -474,7 +526,9 @@
             "white"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "4/4a/Skull.png",
+        "link": "Skeleton_Set#Skull_"
     },
     {
         "name": "Spikeout Helmet",
@@ -491,7 +545,9 @@
             "gray"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "2/2e/SpikeoutHelmet.png",
+        "link": "Spikeout_Set#Helmet"
     },
     {
         "name": "Springtwig Eye",
@@ -509,7 +565,9 @@
             "orange"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "8/89/Springtwig_Eye.png",
+        "link": "Springtwig_Set#Eye"
     },
     {
         "name": "Tomb Prowler Hat",
@@ -528,7 +586,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/71/TombProwlerHat.png",
+        "link": "Tomb_Prowler_Set#Hat"
     },
     {
         "name": "Void Monster Mask",
@@ -547,7 +607,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "6/6e/VoidMonsterMask.png",
+        "link": "Void_Monster_Set#Mask"
     },
     {
         "name": "Woodland Ranger Hat",
@@ -565,7 +627,9 @@
             "green"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "c/c9/Woodland_Ranger_Hat.png",
+        "link": "Woodland_Ranger_Set#Hat"
     },
     {
         "name": "Zhuulaczar Crown",
@@ -582,7 +646,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/0c/Zhuu.png",
+        "link": "Zhuulaczar_Set#Crown"
     },
     {
         "name": "Chasm Magus Hat",
@@ -601,7 +667,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "a/a8/Chasm_Magus_Hat_Large.png",
+        "link": "Chasm_Magus_Set#Hat"
     },
     {
         "name": "Crabsuit Headgear",
@@ -622,7 +690,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "2/2c/Crabsuit_Headgear_Large.png",
+        "link": "Crabsuit_Set#Headgear"
     },
     {
         "name": "Gardendweller's Hat",
@@ -643,7 +713,9 @@
             "red"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "5/5f/Gardendweller_Hat_Large.png",
+        "link": "Gardendweller_Set#Hat"
     },
     {
         "name": "Gauntlet Fury Helmet",
@@ -662,7 +734,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "b/bb/Gauntlet_Fury_Helmet_Large.png",
+        "link": "Gauntlet_Fury_Set#Helmet"
     },
     {
         "name": "Guild Knight Helmet",
@@ -682,7 +756,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "8/83/Guild_Knight_Helmet_Large.png",
+        "link": "Guild_Knight_Set#Helmet"
     },
     {
         "name": "Knight's Army Core",
@@ -702,7 +778,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "0/0f/Knight's_Army_Core_Large.png",
+        "link": "Knight's_Army_Set#Core"
     },
     {
         "name": "Odewig Helmet",
@@ -725,7 +803,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "b/be/Odewig's_Helmet_Large.png",
+        "link": "Odewig_Set#Helmet"
     },
     {
         "name": "Pettyganger's Parade Mask",
@@ -749,7 +829,9 @@
             "yellow"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "6/63/Pettyganger's_Parade_Mask_Large.png",
+        "link": "Pettyganger's_Parade_Set#Mask"
     },
     {
         "name": "Poison Construct Helmet",
@@ -768,7 +850,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "5/52/Poison_Construct_Helmet_Large.png",
+        "link": "Poison_Construct_Set#Helmet"
     },
     {
         "name": "Rotted King's Mask",
@@ -788,7 +872,9 @@
             "green"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "c/c9/Rotted_King's_Mask_Large.png",
+        "link": "Rotted_King's_Set#Mask"
     },
     {
         "name": "Spellbound Mage Hood",
@@ -807,7 +893,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "d/db/Spellbound_Mage_Hood_Large.png",
+        "link": "Spellbound_Mage_Set#Hood"
     },
     {
         "name": "Earth King Regalia",
@@ -824,7 +912,9 @@
             "black"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "f/fe/The_Earth_King_Regalia_Large.png",
+        "link": "The_Earth_King_Regalia_Set#Crown"
     },
     {
         "name": "The Mask of Forgotten Things",
@@ -845,7 +935,9 @@
             "yellow"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "1/18/The_Mask_of_Forgotten_Things_Large.png",
+        "link": "The_Forgotten_Things_Set#Mask"
     },
     {
         "name": "The Vengeful Visage",
@@ -866,7 +958,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "0/04/The_Vengeful_Visage_Large.png",
+        "link": "The_Vengeful_Visage_Set#Visage"
     },
     {
         "name": "Void Lord Helmet",
@@ -883,7 +977,9 @@
             "purple"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "6/6d/Void_Lord_Helmet_Large.png",
+        "link": "Void_Lord_Set#Helmet"
     },
     {
         "name": "Wolfram Leader Helmet",
@@ -902,7 +998,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "d/de/Wolfram_Leader_Helmet_Large.png",
+        "link": "Wolfram_Leader_Set#Helmet"
     },
     {
         "name": "World Sculptor's Helmet",
@@ -920,7 +1018,9 @@
             "white"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "7/71/World_Sculptor_Helmet_Large.png",
+        "link": "World_Sculptor_Set#Helmet"
     },
     {
         "name": "Aquatic Explorer Helmet",
@@ -940,7 +1040,9 @@
             "gray"
         ],
         "outline": "purple",
-        "release": "fs"
+        "release": "fs",
+        "image": "7/77/Aquatic_Explorer_Helmet_Large.png",
+        "link": "Aquatic_Explorer_Set#Helmet"
     },
     {
         "name": "Helm of the Skater",
@@ -964,7 +1066,9 @@
             "yellow"
         ],
         "outline": "red",
-        "release": "fs"
+        "release": "fs",
+        "image": "e/e4/Helm_of_the_Skater_Large.png",
+        "link": "Forgotten_Life_Set#Skater_Helm"
     },
     {
         "name": "New Voice Helmet",
@@ -984,7 +1088,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "fs"
+        "release": "fs",
+        "image": "d/d3/New_Voice_Helmet_Large.png",
+        "link": "New_Voice_Set#Helmet"
     },
     {
         "name": "Romo Helmet",
@@ -1006,7 +1112,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "fs"
+        "release": "fs",
+        "image": "9/9c/Romo_Helmet_Large.png",
+        "link": "Romo_Set#Helmet"
     },
     {
         "name": "Wisecrack Skull",
@@ -1030,7 +1138,9 @@
             "white"
         ],
         "outline": "red",
-        "release": "fs"
+        "release": "fs",
+        "image": "7/7f/Wisecrack_Skull_Large.png",
+        "link": "Wisecrack_Set#Skull"
     },
     {
         "name": "Woodwhack Legionnaire Helmet",
@@ -1051,7 +1161,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fs"
+        "release": "fs",
+        "image": "2/2b/Woodwhack_Legionnaire_Headpiece_Large.png",
+        "link": "Woodwhack_Legionnaire_Set#Helmet"
     },
     {
         "name": "Bedrock Helmet",
@@ -1070,7 +1182,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "c/c1/BedrockHelmet.png",
+        "link": "Bedrock_Set#Helmet"
     },
     {
         "name": "Corrupted Gold Helmet",
@@ -1088,7 +1202,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "c/c7/CorruptGoldHelmet.png",
+        "link": "Corrupted_Gold_Set#Helmet"
     },
     {
         "name": "Corrupted Onyx Helmet",
@@ -1106,7 +1222,9 @@
             "white"
         ],
         "outline": "yellow",
-        "release": "rn"
+        "release": "rn",
+        "image": "5/5a/CorruptOnyxHelmet.png",
+        "link": "Corrupted_Onyx_Set#Helmet"
     },
     {
         "name": "Falling Light Mask",
@@ -1126,7 +1244,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "e/e7/FallingLightMask.png",
+        "link": "Falling_Light_Set#Mask"
     },
     {
         "name": "Fire Hood",
@@ -1146,7 +1266,9 @@
             "red"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "4/40/FireHood.png",
+        "link": "Fire_Spellbound_Mage_Set#Hood"
     },
     {
         "name": "Guttermouth Helmet",
@@ -1166,7 +1288,9 @@
             "green"
         ],
         "outline": "green",
-        "release": "rn"
+        "release": "rn",
+        "image": "6/69/GuttermouthHelmet.png",
+        "link": "Guttermouth_Set#Helmet"
     },
     {
         "name": "Ice Hood",
@@ -1184,7 +1308,9 @@
             "blue"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "6/66/IceHood.png",
+        "link": "Ice_Spellbound_Mage_Set#Hood"
     },
     {
         "name": "Nightmare Prowler Hat",
@@ -1205,7 +1331,9 @@
             "yellow"
         ],
         "outline": "",
-        "release": "rn"
+        "release": "rn",
+        "image": "3/39/NightmareProwlerHat.png",
+        "link": "Nightmare_Prowler_Set#Hat"
     },
     {
         "name": "Pantry Leech Head",
@@ -1227,7 +1355,9 @@
             "green"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "d/d1/PLH.png",
+        "link": "Pantry_Leech_Set#Head"
     },
     {
         "name": "Rising Dark Mask",
@@ -1245,7 +1375,9 @@
             "black"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "e/eb/RisingDarkMask.png",
+        "link": "Rising_Dark_Set#Mask"
     },
     {
         "name": "Roadblocks Head",
@@ -1274,7 +1406,9 @@
             "yellow"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "7/76/RoadblocksHead.png",
+        "link": "Roadblocks_Set#Head"
     },
     {
         "name": "U-Life Helmet",
@@ -1296,7 +1430,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "f/fa/U-LifeHelmet.png",
+        "link": "U-Life_Set#Helmet"
     },
     {
         "name": "Wired Fury Helmet",
@@ -1314,7 +1450,9 @@
             "red"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "3/3a/WiredFuryHelmet.png",
+        "link": "Wired_Fury_Set#Helmet"
     },
     {
         "name": "Green Spectral Vanguard Helmet",
@@ -1332,7 +1470,9 @@
             "green"
         ],
         "outline": "green",
-        "release": "nb"
+        "release": "nb",
+        "image": "1/14/GreenSVHelmet.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Green"
     },
     {
         "name": "Blue Spectral Vanguard Helmet",
@@ -1350,7 +1490,9 @@
             "blue"
         ],
         "outline": "blue",
-        "release": "nb"
+        "release": "nb",
+        "image": "c/c0/BlueSVHelm.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Blue"
     },
     {
         "name": "Purple Spectral Vanguard Helmet",
@@ -1368,7 +1510,9 @@
             "purple"
         ],
         "outline": "yellow",
-        "release": "nb"
+        "release": "nb",
+        "image": "7/7e/PurpleSVHelmet.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Purple"
     },
     {
         "name": "Black Spectral Vanguard Helmet",
@@ -1388,7 +1532,9 @@
             "green"
         ],
         "outline": "purple",
-        "release": "nb"
+        "release": "nb",
+        "image": "0/0c/BlackSVHelmet.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Black"
     },
     {
         "name": "White Spectral Vanguard Helmet",
@@ -1408,7 +1554,9 @@
             "white"
         ],
         "outline": "red",
-        "release": "nb"
+        "release": "nb",
+        "image": "3/33/WhiteSVHelmet.png",
+        "link": "Spectral_Vanguard_Armor_Sets#White"
     },
     {
         "name": "True Spectral Vanguard Helmet",
@@ -1428,7 +1576,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "nb"
+        "release": "nb",
+        "image": "f/f0/TrueSVhelmet.png",
+        "link": "Spectral_Vanguard_Armor_Sets#True"
     },
     {
         "name": "Fire Guild Knight Helmet",
@@ -1447,7 +1597,9 @@
             "yellow"
         ],
         "outline": "green",
-        "release": "sp"
+        "release": "sp",
+        "image": "c/c8/Fire_Guild_Knight_Helmet.png",
+        "link": "Fire_Guild_Knight_Set#Helmet"
     },
     {
         "name": "Water Guild Knight Helmet",
@@ -1466,7 +1618,9 @@
             "blue"
         ],
         "outline": "green",
-        "release": "sp"
+        "release": "sp",
+        "image": "a/a1/Water_Guild_Knight_Helmet.png",
+        "link": "Water_Guild_Knight_Set#Helmet"
     },
     {
         "name": "Temple Fool Head",
@@ -1487,7 +1641,9 @@
             "red"
         ],
         "outline": "green",
-        "release": "sp"
+        "release": "sp",
+        "image": "a/a0/Temple_Fool_Head.png",
+        "link": "Temple_Fool_Set#Head"
     },
     {
         "name": "Machine Rug Helmet",
@@ -1507,7 +1663,9 @@
             "gray"
         ],
         "outline": "yellow",
-        "release": "sp"
+        "release": "sp",
+        "image": "5/55/Machine_Rug_Helmet.png",
+        "link": "Machine_Rug_Set#Helmet"
     },
     {
         "name": "Mr. Techy Techy Head Protector",
@@ -1527,7 +1685,9 @@
             "gray"
         ],
         "outline": "yellow",
-        "release": "sp"
+        "release": "sp",
+        "image": "2/23/Drillbit_Head.png",
+        "link": "Drillbit_Set#Head"
     },
     {
         "name": "Royal Bronze Helmet",
@@ -1544,7 +1704,9 @@
             "brown"
         ],
         "outline": "blue",
-        "release": "rn"
+        "release": "rn",
+        "image": "1/10/RoyalBronzeHelmet.png",
+        "link": "Royal_Bronze_Helmet"
     },
     {
         "name": "Royal Iron Helmet",
@@ -1561,7 +1723,9 @@
             "gray"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/7c/RoyalIronHelmet.png",
+        "link": "Royal_Iron_Helmet"
     },
     {
         "name": "Royal Cobalt Helmet",
@@ -1578,7 +1742,9 @@
             "blue"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/0a/RoyalCobaltHelmet.png",
+        "link": "Royal_Cobalt_Helmet"
     },
     {
         "name": "Royal Titanium Helmet",
@@ -1596,7 +1762,9 @@
             "white"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/03/RoyalTitaniumHelmet.png",
+        "link": "Royal_Titanium_Helmet"
     },
     {
         "name": "Royal Gold Helmet",
@@ -1613,7 +1781,9 @@
             "yellow"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "8/83/Royal_Gold_Helmet.png",
+        "link": "Royal_Gold_Helmet"
     },
     {
         "name": "Royal Onyx Helmet",
@@ -1630,7 +1800,9 @@
             "purple"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "5/59/RoyalOnyxHelmet.png",
+        "link": "Royal_Onyx_Helmet"
     },
     {
         "name": "Brickland",
@@ -1647,7 +1819,9 @@
             "green"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "a/a6/Brickland_Large.png",
+        "link": "Brickland"
     },
     {
         "name": "Century Cube",
@@ -1667,7 +1841,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "rn"
+        "release": "rn",
+        "image": "0/04/CenturyCube.png",
+        "link": "Century_Cube"
     },
     {
         "name": "Clever Cube",
@@ -1688,7 +1864,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "2/29/CleverCube.png",
+        "link": "Clever_Cube"
     },
     {
         "name": "Corrupted Wizard's Helmet",
@@ -1707,7 +1885,9 @@
             "red"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "e/ec/SpiderHat.png",
+        "link": "Corrupted_Wizard's_Helmet"
     },
     {
         "name": "Cosmic Ghost Mask",
@@ -1727,7 +1907,9 @@
             "red"
         ],
         "outline": "black",
-        "release": "sp"
+        "release": "sp",
+        "image": "1/14/CosmicGhostMask.png",
+        "link": "Cosmic_Ghost_Mask"
     },
     {
         "name": "Crescent Coralhead",
@@ -1746,7 +1928,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "e/ee/Crescent_Coralhead_Large.png",
+        "link": "Crescent_Coralhead"
     },
     {
         "name": "Criminal's Tallhat",
@@ -1766,7 +1950,9 @@
             "gray"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "8/8c/Criminal'sTallhat.png",
+        "link": "Criminal's_Tallhat"
     },
     {
         "name": "Dark Ghost Mask",
@@ -1783,7 +1969,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "6/60/DarkGhostMask.png",
+        "link": "Dark_Ghost_Mask"
     },
     {
         "name": "Detour Cone",
@@ -1802,7 +1990,9 @@
             "yellow"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "0/09/Detour_Cone_Large.png",
+        "link": "Detour_Cone"
     },
     {
         "name": "Far North Mask",
@@ -1819,7 +2009,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "ow"
+        "release": "ow",
+        "image": "1/16/Far_North_Mask_Large.png",
+        "link": "Far_North_Mask"
     },
     {
         "name": "Fashion Hat",
@@ -1835,7 +2027,9 @@
             "purple"
         ],
         "outline": "green",
-        "release": "rn"
+        "release": "rn",
+        "image": "f/fe/FashionHat.png",
+        "link": "Fashion_Hat"
     },
     {
         "name": "Fear",
@@ -1855,7 +2049,9 @@
             "yellow"
         ],
         "outline": "red",
-        "release": "sp"
+        "release": "sp",
+        "image": "e/e6/Fear.png",
+        "link": "Fear"
     },
     {
         "name": "Ghost Mask",
@@ -1872,7 +2068,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "e/eb/GhostMask.png",
+        "link": "Ghost_Mask"
     },
     {
         "name": "Gold",
@@ -1890,7 +2088,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "sp"
+        "release": "sp",
+        "image": "1/10/Gold.png",
+        "link": "Gold"
     },
     {
         "name": "Hive Crown",
@@ -1908,7 +2108,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/9b/Hive_Crown.png",
+        "link": "Hive_Crown"
     },
     {
         "name": "Kitchen Cube",
@@ -1928,7 +2130,9 @@
             "blue"
         ],
         "outline": "blue",
-        "release": "rn"
+        "release": "rn",
+        "image": "4/4e/KitchenCube.png",
+        "link": "Kitchen_Cube"
     },
     {
         "name": "Krunkston Four",
@@ -1948,7 +2152,9 @@
             "gray"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "5/57/Krunkston_Four_Large.png",
+        "link": "Krunkston_Four"
     },
     {
         "name": "Maskhat",
@@ -1968,7 +2174,9 @@
             "white"
         ],
         "outline": "yellow",
-        "release": "rn"
+        "release": "rn",
+        "image": "7/72/Maskhat.png",
+        "link": "Maskhat"
     },
     {
         "name": "Magic Fox Headdress",
@@ -1986,7 +2194,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "f/f2/Magic_Fox_Headdress.png",
+        "link": "Magic_Fox_Headdress"
     },
     {
         "name": "Mining Helmet",
@@ -2001,7 +2211,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/94/Mining_Helmet_Large.png",
+        "link": "Mining_Helmet"
     },
     {
         "name": "Minion",
@@ -2016,7 +2228,9 @@
             "green"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "e/e6/Minion_Large.png",
+        "link": "Minion"
     },
     {
         "name": "Monster Mask",
@@ -2034,7 +2248,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "3/36/Monster_Mask.png",
+        "link": "Monster_Mask"
     },
     {
         "name": "Neon Flint's Cap",
@@ -2055,7 +2271,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "b/b1/Neon_Flint's_Cap.png",
+        "link": "Neon_Flint's_Cap"
     },
     {
         "name": "Nightingale Mask",
@@ -2075,7 +2293,9 @@
             "black"
         ],
         "outline": "black",
-        "release": "sp"
+        "release": "sp",
+        "image": "7/74/Nightingale_Mask.png",
+        "link": "Nightingale_Mask"
     },
     {
         "name": "Nightmare Visage",
@@ -2094,7 +2314,9 @@
             "gray"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "7/72/NightmareVisage.png",
+        "link": "Nightmare_Visage"
     },
     {
         "name": "Oculus Adcuratus",
@@ -2111,7 +2333,9 @@
             "orange"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "c/c0/Oculus_Adcuratus.png",
+        "link": "Oculus_Adcuratus"
     },
     {
         "name": "Otherworld Slug",
@@ -2130,7 +2354,9 @@
             "white"
         ],
         "outline": "red",
-        "release": "sp"
+        "release": "sp",
+        "image": "b/b2/OtherworldSlug.png",
+        "link": "Otherworld_Slug"
     },
     {
         "name": "Outlaw's Cap",
@@ -2147,7 +2373,9 @@
             "brown"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/1e/Outlaw's_Cap.png",
+        "link": "Outlaw's_Cap"
     },
     {
         "name": "Philmore's Helmet",
@@ -2166,7 +2394,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "6/6c/Philmore's_Helmet_Large.png",
+        "link": "Philmore's_Helmet"
     },
     {
         "name": "Plain Fishmask",
@@ -2188,7 +2418,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "fs"
+        "release": "fs",
+        "image": "1/1a/Plain_Fishmask_Large.png",
+        "link": "Plain_Fishmask"
     },
     {
         "name": "Plasma Ghost Mask",
@@ -2207,7 +2439,9 @@
             "orange"
         ],
         "outline": "red",
-        "release": "sp"
+        "release": "sp",
+        "image": "b/bf/PlasmaGhostMask.png",
+        "link": "Plasma_Ghost_Mask"
     },
     {
         "name": "Propaganda Head",
@@ -2225,7 +2459,9 @@
             "white"
         ],
         "outline": "yellow",
-        "release": "rn"
+        "release": "rn",
+        "image": "a/ac/PropagandaHead.png",
+        "link": "Propaganda_Head"
     },
     {
         "name": "Punk",
@@ -2243,7 +2479,9 @@
             "blue"
         ],
         "outline": "white",
-        "release": "sp"
+        "release": "sp",
+        "image": "0/06/Punk.png",
+        "link": "Punk"
     },
     {
         "name": "Puzzlehead",
@@ -2265,7 +2503,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "fs"
+        "release": "fs",
+        "image": "9/9b/Puzzlehead_Large.png",
+        "link": "Puzzlehead"
     },
     {
         "name": "Red Yesterday Hat",
@@ -2282,7 +2522,9 @@
             "red"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "1/1b/RedYesterdayHat.png",
+        "link": "Red_Yesterday_Hat"
     },
     {
         "name": "Strangeman's Mask",
@@ -2303,7 +2545,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "d/d6/Strangemans_Mask.png",
+        "link": "Strangeman's_Mask"
     },
     {
         "name": "Tall Anthony",
@@ -2319,7 +2563,9 @@
             "purple"
         ],
         "outline": "white",
-        "release": "fs"
+        "release": "fs",
+        "image": "a/a4/Tall_Anthony_Large.png",
+        "link": "Tall_Anthony_(Armor)"
     },
     {
         "name": "The Pommel's Helmet",
@@ -2341,7 +2587,9 @@
             "white"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "7/72/The_Pommel's_Helmet_Large.png",
+        "link": "The_Pommel's_Helmet"
     },
     {
         "name": "Von Jerry's Hat of Illusion",
@@ -2358,7 +2606,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "a/a7/Von_Jerry's_Hat_Of_Illusion_Large.png",
+        "link": "Von_Jerry's_Hat_of_Illusion"
     },
     {
         "name": "Yaaxil Flame",
@@ -2379,7 +2629,9 @@
             "yellow"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "6/69/Yaaxil_Flame_Large.png",
+        "link": "Yaaxil_Flame"
     },
     {
         "name": "Frog Costume #1 - Head",
@@ -2397,7 +2649,9 @@
             "white"
         ],
         "outline": "green",
-        "release": "nb"
+        "release": "nb",
+        "image": "3/32/Frog1head.png",
+        "link": "Frog_Costumes#Frog_Costume_#1"
     },
     {
         "name": "Frog Costume #2 - Head",
@@ -2414,7 +2668,9 @@
             "white"
         ],
         "outline": "yellow",
-        "release": "nb"
+        "release": "nb",
+        "image": "1/17/Frog2head.png",
+        "link": "Frog_Costumes#Frog_Costume_#2"
     },
     {
         "name": "Frog Costume #3 - Head",
@@ -2432,7 +2688,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "nb"
+        "release": "nb",
+        "image": "4/4a/Frog3head.png",
+        "link": "Frog_Costumes#Frog_Costume_#3"
     },
     {
         "name": "Frog Costume #4 - Head",
@@ -2450,7 +2708,9 @@
             "white"
         ],
         "outline": "red",
-        "release": "nb"
+        "release": "nb",
+        "image": "a/a2/Frog4head.png",
+        "link": "Frog_Costumes#Frog_Costume_#4"
     },
     {
         "name": "Frog Costume #5 - Head",
@@ -2467,7 +2727,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "nb"
+        "release": "nb",
+        "image": "3/30/Frog5head.png",
+        "link": "Frog_Costumes#Frog_Costume_#5"
     },
     {
         "name": "Bronze Platebody",
@@ -2483,7 +2745,9 @@
             "brown"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "d/d6/Bronze_Platebody.png",
+        "link": "Ore-Based_Armor_Sets#Bronze"
     },
     {
         "name": "Iron Platebody",
@@ -2499,7 +2763,9 @@
             "gray"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/74/Iron_Platebody.png",
+        "link": "Ore-Based_Armor_Sets#Iron"
     },
     {
         "name": "Cobalt Platebody",
@@ -2515,7 +2781,9 @@
             "blue"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/1a/Cobalt_Platebody.png",
+        "link": "Ore-Based_Armor_Sets#Cobalt"
     },
     {
         "name": "Titanium Platebody",
@@ -2531,7 +2799,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/9b/Titanium_Platebody.png",
+        "link": "Ore-Based_Armor_Sets#Titanium"
     },
     {
         "name": "Gold Platebody",
@@ -2547,7 +2817,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/75/Gold_Platebody.png",
+        "link": "Ore-Based_Armor_Sets#Gold"
     },
     {
         "name": "Onyx Platebody",
@@ -2563,7 +2835,9 @@
             "black"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "4/4a/Onyx_Platebody.png",
+        "link": "Ore-Based_Armor_Sets#Onyx"
     },
     {
         "name": "Blue Wizard Robe Top",
@@ -2581,7 +2855,9 @@
             "brown"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/19/BlueWizardRobeTop.png",
+        "link": "Blue_Wizard_Set#Top"
     },
     {
         "name": "Brash Knight Platebody",
@@ -2600,7 +2876,9 @@
             "gray"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "a/a1/Brash_Knight_Platebody.png",
+        "link": "Brash_Knight_Set#Torso"
     },
     {
         "name": "Celestial Moon Top",
@@ -2619,7 +2897,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "f/fe/CelestialMoonTop.png",
+        "link": "Celestial_Moon_Set#Top"
     },
     {
         "name": "Courting Knight Torso",
@@ -2637,7 +2917,9 @@
             "red"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "5/55/Courting_Knight_Torso.png",
+        "link": "Courting_Knight_Set#Torso"
     },
     {
         "name": "Dark Hunter Top",
@@ -2654,7 +2936,9 @@
             "black"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "4/4c/DarkHunterTop.png",
+        "link": "Dark_Hunter_Set#Top"
     },
     {
         "name": "Darkwood Warrior Platebody",
@@ -2673,7 +2957,9 @@
             "brown"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "d/d6/Darkwood_Warrior_Platebody.png",
+        "link": "Darkwood_Warrior_Set#Platebody"
     },
     {
         "name": "Furnace Mummy Platebody",
@@ -2691,7 +2977,9 @@
             "orange"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "5/59/FurnaceMummyPlatebody.png",
+        "link": "Furnace_Mummy_Set#Platebody"
     },
     {
         "name": "Galaxy Wizard Torso",
@@ -2714,7 +3002,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "e/eb/GalaxyWizardTorso.png",
+        "link": "Galaxy_Wizard_Set#Top"
     },
     {
         "name": "Guardian Torso",
@@ -2735,7 +3025,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "a/ad/GuardianTorso.png",
+        "link": "Guardian_Set#Torso"
     },
     {
         "name": "Hardened Bronze Platebody",
@@ -2752,7 +3044,9 @@
             "yellow"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "2/2e/HardenedBronzePlatebody.png",
+        "link": "Hardened_Bronze_Set#Platebody"
     },
     {
         "name": "Hedge Knight Torso",
@@ -2769,7 +3063,9 @@
             "gray"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "4/44/Hedge_Knight_Torso.png",
+        "link": "Hedge_Knight's_Set#Torso"
     },
     {
         "name": "Illuminator's Top",
@@ -2786,7 +3082,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "f/f2/Illuminators_Torso.png",
+        "link": "Illuminator_Set#Top"
     },
     {
         "name": "Ivory Chestpiece",
@@ -2804,7 +3102,9 @@
             "white"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "5/50/Ivory_Chestpiece.png",
+        "link": "Ivory_Set#Chestpiece"
     },
     {
         "name": "Jade Assassin's Torso",
@@ -2823,7 +3123,9 @@
             "green"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "d/d3/Jade_Assassin's_Torso.png",
+        "link": "Jade_Assassin's_Set#Torso"
     },
     {
         "name": "Lagoon Spirit Torso",
@@ -2841,7 +3143,9 @@
             "green"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "4/4a/LagoonSpiritTorso.png",
+        "link": "Lagoon_Spirit_Set#Torso"
     },
     {
         "name": "Mortmud Wraps",
@@ -2859,7 +3163,9 @@
             "green"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "2/26/Mortmud_Wraps.png",
+        "link": "Mortmud_Set#Chest"
     },
     {
         "name": "Patched Torso",
@@ -2877,7 +3183,9 @@
             "green"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/7e/PatchedTorso.png",
+        "link": "Patched_Set#Torso"
     },
     {
         "name": "Razed General Torso",
@@ -2895,7 +3203,9 @@
             "orange"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "6/60/Razed_General_Torso.png",
+        "link": "Razed_General_Set#Torso"
     },
     {
         "name": "Red Wizard Robe Top",
@@ -2913,7 +3223,9 @@
             "red"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "2/2f/RedWizardRobeTop.png",
+        "link": "Red_Wizard_Set#Top"
     },
     {
         "name": "Riveted Torso",
@@ -2930,7 +3242,9 @@
             "green"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "6/63/Riveted_Torso.png",
+        "link": "Riveted_Set#Torso"
     },
     {
         "name": "Skeleton Torso",
@@ -2946,7 +3260,9 @@
             "white"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "3/39/Skeleton_Torso.png",
+        "link": "Skeleton_Set#Torso_"
     },
     {
         "name": "Spikeout Chestpiece",
@@ -2964,7 +3280,9 @@
             "gray"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/1f/SpikeoutChestpiece.png",
+        "link": "Spikeout_Set#Chestpiece"
     },
     {
         "name": "Springtwig Torso",
@@ -2982,7 +3300,9 @@
             "orange"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/7e/Springtwig_Torso.png",
+        "link": "Springtwig_Set#Torso"
     },
     {
         "name": "Tomb Prowler Torso",
@@ -3001,7 +3321,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/06/TombProwlerTorso.png",
+        "link": "Tomb_Prowler_Set#Torso"
     },
     {
         "name": "Void Monster Torso",
@@ -3021,7 +3343,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/0b/VoidMonsterTorso.png",
+        "link": "Void_Monster_Set#Torso"
     },
     {
         "name": "Woodland Ranger Torso",
@@ -3039,7 +3363,9 @@
             "green"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "6/6b/Woodland_Ranger_Torso.png",
+        "link": "Woodland_Ranger_Set#Torso"
     },
     {
         "name": "Zhuulaczar Armored Body",
@@ -3056,7 +3382,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "5/56/ZhuuTorso.png",
+        "link": "Zhuulaczar_Set#Armored_Body"
     },
     {
         "name": "Chasm Magus Robe Top",
@@ -3076,7 +3404,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "d/d4/Chasm_Magus_Robe_Top_Large.png",
+        "link": "Chasm_Magus_Set#Top"
     },
     {
         "name": "Crabsuit Top",
@@ -3097,7 +3427,9 @@
             "red"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "1/10/Crabsuit_Top_Large.png",
+        "link": "Crabsuit_Set#Top"
     },
     {
         "name": "Gardendweller Top",
@@ -3119,7 +3451,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "1/17/Gardendweller_Top_Large.png",
+        "link": "Gardendweller_Set#Top"
     },
     {
         "name": "Gauntlet Fury Platebody",
@@ -3138,7 +3472,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "0/0a/Gauntlet_Fury_Platebody_Large.png",
+        "link": "Gauntlet_Fury_Set#Platebody"
     },
     {
         "name": "Guild Knight Platebody",
@@ -3157,7 +3493,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "6/6a/Guild_Knight_Platebody_Large.png",
+        "link": "Guild_Knight_Set#Platebody"
     },
     {
         "name": "Knight's Army Platebody",
@@ -3176,7 +3514,9 @@
             "gray"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "8/8c/Knight's_Army_Platebody_Large.png",
+        "link": "Knight's_Army_Set#Platebody"
     },
     {
         "name": "Odewig Armor",
@@ -3199,7 +3539,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "5/52/Odewig's_Armor_Large.png",
+        "link": "Odewig_Set#Torso"
     },
     {
         "name": "Pettyganger's Parade Suit Top",
@@ -3218,7 +3560,9 @@
             "purple"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "1/14/Pettyganger's_Parade_Suit_Top_Large.png",
+        "link": "Pettyganger's_Parade_Set#Top"
     },
     {
         "name": "Poison Construct Torso",
@@ -3237,7 +3581,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "7/77/Poison_Construct_Torso_Large.png",
+        "link": "Poison_Construct_Set#Torso"
     },
     {
         "name": "Rotted King's Chestpiece",
@@ -3257,7 +3603,9 @@
             "green"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "3/32/Rotted_King's_Torso_Large.png",
+        "link": "Rotted_King's_Set#Chestpiece"
     },
     {
         "name": "Spellbound Mage Battledress",
@@ -3276,7 +3624,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "6/64/Spellbound_Mage_Battledress_Large.png",
+        "link": "Spellbound_Mage_Set#Battledress"
     },
     {
         "name": "Platebody of the Earth King Regalia",
@@ -3293,7 +3643,9 @@
             "green"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "6/6c/The_Earth_King_Regalia_Platebody_Large.png",
+        "link": "The_Earth_King_Regalia_Set#Platebody"
     },
     {
         "name": "The Armor of Forgotten Things",
@@ -3314,7 +3666,9 @@
             "yellow"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "7/73/The_Armor_of_Forgotten_Things_Large.png",
+        "link": "The_Forgotten_Things_Set#Armor"
     },
     {
         "name": "The Vengeful Visage Top",
@@ -3335,7 +3689,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "a/a2/The_Vengeful_Visage_Top_Large.png",
+        "link": "The_Vengeful_Visage_Set#Top"
     },
     {
         "name": "Tower Armor Platebody",
@@ -3358,7 +3714,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "ow"
+        "release": "ow",
+        "image": "1/1a/Tower_Armor_Platebody_Large.png",
+        "link": "Tower_Armor_Set#Platebody"
     },
     {
         "name": "Void Lord Chestpiece",
@@ -3375,7 +3733,9 @@
             "purple"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "a/ad/Void_Lord_Chestpiece_Large.png",
+        "link": "Void_Lord_Set#Chestpiece"
     },
     {
         "name": "Wolfram Leader Platebody",
@@ -3393,7 +3753,9 @@
             "brown"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "7/7f/Wolfram_Leader_Platebody_Large.png",
+        "link": "Wolfram_Leader_Set#Platebody"
     },
     {
         "name": "World Sculptor's Armor",
@@ -3410,7 +3772,9 @@
             "green"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "8/8a/World_Sculptor_Armor_Large.png",
+        "link": "World_Sculptor_Set#Armor"
     },
     {
         "name": "Aquatic Explorer Armor",
@@ -3429,7 +3793,9 @@
             "gray"
         ],
         "outline": "purple",
-        "release": "fs"
+        "release": "fs",
+        "image": "d/dd/Aquatic_Explorer_Armor_Large.png",
+        "link": "Aquatic_Explorer_Set#Armor"
     },
     {
         "name": "Platebody of a Forgotten Life",
@@ -3450,7 +3816,9 @@
             "gray"
         ],
         "outline": "red",
-        "release": "fs"
+        "release": "fs",
+        "image": "3/3e/Platebody_of_a_Forgotten_Life_Large.png",
+        "link": "Forgotten_Life_Set#Platebody"
     },
     {
         "name": "New Voice Platebody",
@@ -3470,7 +3838,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fs"
+        "release": "fs",
+        "image": "f/fd/New_Voice_Platebody_Large.png",
+        "link": "New_Voice_Set#Platebody"
     },
     {
         "name": "Romo Torso",
@@ -3487,7 +3857,9 @@
             "gray"
         ],
         "outline": "white",
-        "release": "fs"
+        "release": "fs",
+        "image": "6/68/Romo_Torso_Large.png",
+        "link": "Romo_Set#Torso"
     },
     {
         "name": "Wisecrack Torso",
@@ -3508,7 +3880,9 @@
             "white"
         ],
         "outline": "red",
-        "release": "fs"
+        "release": "fs",
+        "image": "8/83/Wisecrack_Torso_Large.png",
+        "link": "Wisecrack_Set#Torso"
     },
     {
         "name": "Woodwhack Legionnaire Chestpiece",
@@ -3529,7 +3903,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fs"
+        "release": "fs",
+        "image": "f/f2/Woodwhack_Legionnaire_Chestpiece_Large.png",
+        "link": "Woodwhack_Legionnaire_Set#Chestpiece"
     },
     {
         "name": "Bedrock Platebody",
@@ -3548,7 +3924,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "7/7d/BedrockPlatebody.png",
+        "link": "Bedrock_Set#Platebody"
     },
     {
         "name": "Corrupted Gold Platebody",
@@ -3565,7 +3943,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "d/d5/CorruptGoldChestplate.png",
+        "link": "Corrupted_Gold_Set#Platebody"
     },
     {
         "name": "Corrupted Onyx Platebody",
@@ -3582,7 +3962,9 @@
             "black"
         ],
         "outline": "yellow",
-        "release": "rn"
+        "release": "rn",
+        "image": "0/05/CorruptOnyxChestplate.png",
+        "link": "Corrupted_Onyx_Set#Platebody"
     },
     {
         "name": "Court Jester Shirt",
@@ -3601,7 +3983,9 @@
             "green"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "a/a6/CourtJesterShirt.png",
+        "link": "Court_Jester_Set#Shirt"
     },
     {
         "name": "Falling Light Mage Robe Top",
@@ -3622,7 +4006,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "9/9c/FallingLightMageRobeTop.png",
+        "link": "Falling_Light_Set#Robe_Top"
     },
     {
         "name": "Fire Spellbound Mage Top",
@@ -3642,7 +4028,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "0/0d/FireSpellboundMageTop.png",
+        "link": "Fire_Spellbound_Mage_Set#Top"
     },
     {
         "name": "Guttermouth Platebody",
@@ -3662,7 +4050,9 @@
             "green"
         ],
         "outline": "green",
-        "release": "rn"
+        "release": "rn",
+        "image": "c/c3/GMPlatebody.png",
+        "link": "Guttermouth_Set#Platebody"
     },
     {
         "name": "Ice Spellbound Mage Top",
@@ -3680,7 +4070,9 @@
             "blue"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "4/4f/IceSpellboundMageTop.png",
+        "link": "Ice_Spellbound_Mage_Set#Top"
     },
     {
         "name": "Nightmare Prowler Torso",
@@ -3699,7 +4091,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "f/f4/NightmareProwlerTorso.png",
+        "link": "Nightmare_Prowler_Set#Torso"
     },
     {
         "name": "Pantry Leech Torso",
@@ -3720,7 +4114,9 @@
             "green"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "5/5d/PLT.png",
+        "link": "Pantry_Leech_Set#Torso"
     },
     {
         "name": "Rising Dark Robe Top",
@@ -3738,7 +4134,9 @@
             "black"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "8/82/RisingDarkMageRobeTop.png",
+        "link": "Rising_Dark_Set#Robe_Top"
     },
     {
         "name": "Roadblocks Torso",
@@ -3772,7 +4170,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "2/21/RoadblocksTorso.png",
+        "link": "Roadblocks_Set#Torso"
     },
     {
         "name": "The Drake's Shirt",
@@ -3792,7 +4192,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "c/ce/TheDrake'sShirt.png",
+        "link": "The_Drake's_Set#Shirt"
     },
     {
         "name": "U-Life Platebody",
@@ -3814,7 +4216,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "f/f2/U-LifePlatebody.png",
+        "link": "U-Life_Set#Platebody"
     },
     {
         "name": "Wired Fury Platebody",
@@ -3831,7 +4235,9 @@
             "red"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "c/ca/WiredFuryPlatebody.png",
+        "link": "Wired_Fury_Set#Platebody"
     },
     {
         "name": "Green Spectral Vanguard Platebody",
@@ -3849,7 +4255,9 @@
             "green"
         ],
         "outline": "green",
-        "release": "nb"
+        "release": "nb",
+        "image": "b/b2/GreenSVTorso.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Green"
     },
     {
         "name": "Blue Spectral Vanguard Platebody",
@@ -3867,7 +4275,9 @@
             "blue"
         ],
         "outline": "blue",
-        "release": "nb"
+        "release": "nb",
+        "image": "b/b2/BlueSVTorso.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Blue"
     },
     {
         "name": "Purple Spectral Vanguard Platebody",
@@ -3885,7 +4295,9 @@
             "purple"
         ],
         "outline": "yellow",
-        "release": "nb"
+        "release": "nb",
+        "image": "6/63/PurpleSVTorso.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Purple"
     },
     {
         "name": "Black Spectral Vanguard Platebody",
@@ -3905,7 +4317,9 @@
             "green"
         ],
         "outline": "purple",
-        "release": "nb"
+        "release": "nb",
+        "image": "0/03/BlackSVTorso.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Black"
     },
     {
         "name": "White Spectral Vanguard Platebody",
@@ -3925,7 +4339,9 @@
             "white"
         ],
         "outline": "red",
-        "release": "nb"
+        "release": "nb",
+        "image": "4/4b/WhiteSVTorso.png",
+        "link": "Spectral_Vanguard_Armor_Sets#White"
     },
     {
         "name": "True Spectral Vanguard Platebody",
@@ -3949,7 +4365,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "nb"
+        "release": "nb",
+        "image": "2/2e/TrueSVtorso.png",
+        "link": "Spectral_Vanguard_Armor_Sets#True"
     },
     {
         "name": "Fire Guild Knight Platebody",
@@ -3969,7 +4387,9 @@
             "yellow"
         ],
         "outline": "green",
-        "release": "sp"
+        "release": "sp",
+        "image": "1/12/Fire_Guild_Knight_Platebody.png",
+        "link": "Fire_Guild_Knight_Set#Platebody"
     },
     {
         "name": "Water Guild Knight Platebody",
@@ -3988,7 +4408,9 @@
             "blue"
         ],
         "outline": "green",
-        "release": "sp"
+        "release": "sp",
+        "image": "1/17/Water_Guildknight_Platebody.png",
+        "link": "Water_Guild_Knight_Set#Platebody"
     },
     {
         "name": "Temple Fool Torso",
@@ -4009,7 +4431,9 @@
             "red"
         ],
         "outline": "green",
-        "release": "sp"
+        "release": "sp",
+        "image": "2/20/Temple_Fool_Torso.png",
+        "link": "Temple_Fool_Set#Torso"
     },
     {
         "name": "Machine Rug Platebody",
@@ -4030,7 +4454,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "sp"
+        "release": "sp",
+        "image": "b/bd/Machine_Rug_Platebody.png",
+        "link": "Machine_Rug_Set#Platebody"
     },
     {
         "name": "Broken Thumb Drillbit Emporium Chassis",
@@ -4050,7 +4476,9 @@
             "gray"
         ],
         "outline": "yellow",
-        "release": "sp"
+        "release": "sp",
+        "image": "c/c7/Drillbit_Chassis.png",
+        "link": "Drillbit_Set#Chassis"
     },
     {
         "name": "Adventurer's Armor",
@@ -4069,7 +4497,9 @@
             "brown"
         ],
         "outline": "red",
-        "release": "sp"
+        "release": "sp",
+        "image": "c/c1/Adventurer's_Armor.png",
+        "link": "Adventurer's_Armor_Set#Armor"
     },
     {
         "name": "Bandolier",
@@ -4087,7 +4517,9 @@
             "white"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "6/62/Bandolier.png",
+        "link": "Bandolier"
     },
     {
         "name": "Enormous Huge Bill",
@@ -4103,7 +4535,9 @@
             "red"
         ],
         "outline": "white",
-        "release": "sp"
+        "release": "sp",
+        "image": "a/ae/EnormousHugeBill.png",
+        "link": "Enormous_Huge_Bill"
     },
     {
         "name": "Green-Black Jacket",
@@ -4119,7 +4553,9 @@
             "black"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "b/bd/Green-BlackJacket.png",
+        "link": "Green-Black_Jacket"
     },
     {
         "name": "Frog Costume #1 - Torso",
@@ -4136,7 +4572,9 @@
             "white"
         ],
         "outline": "green",
-        "release": "nb"
+        "release": "nb",
+        "image": "9/98/Frog1torso.png",
+        "link": "Frog_Costumes#Frog_Costume_#1"
     },
     {
         "name": "Frog Costume #2 - Torso",
@@ -4153,7 +4591,9 @@
             "red"
         ],
         "outline": "yellow",
-        "release": "nb"
+        "release": "nb",
+        "image": "b/ba/Frog2torso.png",
+        "link": "Frog_Costumes#Frog_Costume_#2"
     },
     {
         "name": "Frog Costume #3 - Torso",
@@ -4172,7 +4612,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "nb"
+        "release": "nb",
+        "image": "0/03/Frog3torso.png",
+        "link": "Frog_Costumes#Frog_Costume_#3"
     },
     {
         "name": "Frog Costume #4 - Torso",
@@ -4190,7 +4632,9 @@
             "white"
         ],
         "outline": "red",
-        "release": "nb"
+        "release": "nb",
+        "image": "1/19/Frog4torso.png",
+        "link": "Frog_Costumes#Frog_Costume_#4"
     },
     {
         "name": "Frog Costume #5 - Torso",
@@ -4206,7 +4650,9 @@
             "black"
         ],
         "outline": "purple",
-        "release": "nb"
+        "release": "nb",
+        "image": "1/16/Frog5torso.png",
+        "link": "Frog_Costumes#Frog_Costume_#5"
     },
     {
         "name": "Bronze Platelegs",
@@ -4222,7 +4668,9 @@
             "brown"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "2/2e/Bronze_Platelegs.png",
+        "link": "Ore-Based_Armor_Sets#Bronze"
     },
     {
         "name": "Iron Platelegs",
@@ -4238,7 +4686,9 @@
             "gray"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "f/f2/Iron_Platelegs.png",
+        "link": "Ore-Based_Armor_Sets#Iron"
     },
     {
         "name": "Cobalt Platelegs",
@@ -4254,7 +4704,9 @@
             "blue"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "5/51/Cobalt_Platelegs.png",
+        "link": "Ore-Based_Armor_Sets#Cobalt"
     },
     {
         "name": "Titanium Platelegs",
@@ -4270,7 +4722,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "c/cc/Titatnium_Platelegs.png",
+        "link": "Ore-Based_Armor_Sets#Titanium"
     },
     {
         "name": "Gold Platelegs",
@@ -4286,7 +4740,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "b/b3/Gold_Platelegs.png",
+        "link": "Ore-Based_Armor_Sets#Gold"
     },
     {
         "name": "Onyx Platelegs",
@@ -4302,7 +4758,9 @@
             "black"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/93/Onyx_Platelegs.png",
+        "link": "Ore-Based_Armor_Sets#Onyx"
     },
     {
         "name": "Blue Wizard Robe Bottom",
@@ -4319,7 +4777,9 @@
             "blue"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "d/db/BlueWizardRobeBottom.png",
+        "link": "Blue_Wizard_Set#Bottom"
     },
     {
         "name": "Brash Knight Platelegs",
@@ -4338,7 +4798,9 @@
             "gray"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/03/Brash_Knight_Platelegs.png",
+        "link": "Brash_Knight_Set#Legs"
     },
     {
         "name": "Celestial Robe Bottom",
@@ -4357,7 +4819,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "b/bc/CelestialMoonRobeBottom.png",
+        "link": "Celestial_Moon_Set#Robe_Bottom"
     },
     {
         "name": "Courting Knight Legs",
@@ -4375,7 +4839,9 @@
             "red"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "3/39/Courting_Knight_Legs.png",
+        "link": "Courting_Knight_Set#Legs"
     },
     {
         "name": "Dark Hunter Legs",
@@ -4392,7 +4858,9 @@
             "black"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/78/DarkHunterLegs.png",
+        "link": "Dark_Hunter_Set#Legs"
     },
     {
         "name": "Darkwood Warrior Platelegs",
@@ -4411,7 +4879,9 @@
             "brown"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "e/e0/Darkwood_Warrior_Platelegs.png",
+        "link": "Darkwood_Warrior_Set#Platelegs"
     },
     {
         "name": "Furnace Mummy Platelegs",
@@ -4429,7 +4899,9 @@
             "orange"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "2/2d/FurnaceMummyPlatelegs.png",
+        "link": "Furnace_Mummy_Set#Platelegs"
     },
     {
         "name": "Galaxy Wizard Legs",
@@ -4449,7 +4921,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "a/ae/GalaxyWizardLegs.png",
+        "link": "Galaxy_Wizard_Set#Bottom"
     },
     {
         "name": "Guardian Legs",
@@ -4468,7 +4942,9 @@
             "blue"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/1f/GuardianLegs.png",
+        "link": "Guardian_Set#Legs"
     },
     {
         "name": "Hardened Bronze Platelegs",
@@ -4485,7 +4961,9 @@
             "yellow"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "e/eb/HardenedBronzePlatelegs.png",
+        "link": "Hardened_Bronze_Set#Platelegs"
     },
     {
         "name": "Hedge Knight Legs",
@@ -4502,7 +4980,9 @@
             "gray"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/9a/Hedge_Knight_Legs.png",
+        "link": "Hedge_Knight's_Set#Legs"
     },
     {
         "name": "Illuminator's Pants",
@@ -4519,7 +4999,9 @@
             "brown"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "b/b8/Illuminators_Pants.png",
+        "link": "Illuminator_Set#Pants"
     },
     {
         "name": "Ivory Legs",
@@ -4537,7 +5019,9 @@
             "white"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/7f/Ivory_Legs.png",
+        "link": "Ivory_Set#Legs"
     },
     {
         "name": "Jade Assassin's Legs",
@@ -4556,7 +5040,9 @@
             "green"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "e/ea/Jade_Assassin's_Legs.png",
+        "link": "Jade_Assassin's_Set#Legs"
     },
     {
         "name": "Lagoon Spirit Legs",
@@ -4574,7 +5060,9 @@
             "green"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "d/d4/LagoonSpiritLegs.png",
+        "link": "Lagoon_Spirit_Set#Legs"
     },
     {
         "name": "Mortmud Legs",
@@ -4591,7 +5079,9 @@
             "brown"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/03/Mortmud_Legs.png",
+        "link": "Mortmud_Set#Legs"
     },
     {
         "name": "Patched Legs",
@@ -4609,7 +5099,9 @@
             "green"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "8/8f/PatchedLegs.png",
+        "link": "Patched_Set#Legs"
     },
     {
         "name": "Razed General Legs",
@@ -4628,7 +5120,9 @@
             "orange"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/91/Razed_General_Legs.png",
+        "link": "Razed_General_Set#Legs"
     },
     {
         "name": "Red Wizard Robe Bottom",
@@ -4645,7 +5139,9 @@
             "red"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "2/2d/RedWizardRobeBottom.png",
+        "link": "Red_Wizard_Set#Bottom"
     },
     {
         "name": "Riveted Shorts",
@@ -4662,7 +5158,9 @@
             "green"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "4/4c/Riveted_Shorts.png",
+        "link": "Riveted_Set#Shorts"
     },
     {
         "name": "Skeleton Legs",
@@ -4678,7 +5176,9 @@
             "white"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "c/c0/Skeleton_Legs.png",
+        "link": "Skeleton_Set#Legs_"
     },
     {
         "name": "Spikeout Legs",
@@ -4696,7 +5196,9 @@
             "gray"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "f/ff/SpikeoutLegs.png",
+        "link": "Spikeout_Set#Legs"
     },
     {
         "name": "Springtwig Legs",
@@ -4713,7 +5215,9 @@
             "brown"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "b/b4/Springtwig_Legs.png",
+        "link": "Springtwig_Set#Legs"
     },
     {
         "name": "Tomb Prowler Legs",
@@ -4732,7 +5236,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/99/TombProwlerLegs.png",
+        "link": "Tomb_Prowler_Set#Legs"
     },
     {
         "name": "Void Monster Legs",
@@ -4751,7 +5257,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/1e/VoidMonsterLegs.png",
+        "link": "Void_Monster_Set#Legs"
     },
     {
         "name": "Woodland Ranger Legs",
@@ -4769,7 +5277,9 @@
             "green"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/19/Woodland_Ranger_Legs.png",
+        "link": "Woodland_Ranger_Set#Legs"
     },
     {
         "name": "Zhuulaczar Legs",
@@ -4786,7 +5296,9 @@
             "yellow"
         ],
         "outline": "",
-        "release": "fr"
+        "release": "fr",
+        "image": "d/d5/ZhuuLegs.png",
+        "link": "Zhuulaczar_Set#Legs"
     },
     {
         "name": "Chasm Magus Robe Bottom",
@@ -4805,7 +5317,9 @@
             "green"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "e/e2/Chasm_Magus_Robe_Bottom_Large.png",
+        "link": "Chasm_Magus_Set#Bottom"
     },
     {
         "name": "Crabsuit Legs",
@@ -4826,7 +5340,9 @@
             "red"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "7/73/Crabsuit_Legs_Large.png",
+        "link": "Crabsuit_Set#Legs"
     },
     {
         "name": "Gardendweller Pants",
@@ -4848,7 +5364,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "7/72/Gardendweller_Pants_Large.png",
+        "link": "Gardendweller_Set#Pants"
     },
     {
         "name": "Gauntlet Fury Platelegs",
@@ -4867,7 +5385,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "d/db/Gauntlet_Fury_Platelegs_Large.png",
+        "link": "Gauntlet_Fury_Set#Platelegs"
     },
     {
         "name": "Guild Knight Platelegs",
@@ -4886,7 +5406,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "d/d1/Guild_Knight_Platelegs_Large.png",
+        "link": "Guild_Knight_Set#Platelegs"
     },
     {
         "name": "Knight's Army Platelegs",
@@ -4906,7 +5428,9 @@
             "gray"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "4/48/Knight's_Army_Platelegs_Large.png",
+        "link": "Knight's_Army_Set#Platelegs"
     },
     {
         "name": "Odewig Platelegs",
@@ -4929,7 +5453,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "9/9e/Odewig's_Platelegs_Large.png",
+        "link": "Odewig_Set#Platelegs"
     },
     {
         "name": "Pettyganger's Parade Legwarmers",
@@ -4947,7 +5473,9 @@
             "gray"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "5/54/Pettyganger's_Parade_Legwarmers_Large.png",
+        "link": "Pettyganger's_Parade_Set#Legwarmers"
     },
     {
         "name": "Poison Construct Legs",
@@ -4966,7 +5494,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "c/ca/Poison_Construct_Legs_Large.png",
+        "link": "Poison_Construct_Set#Legs"
     },
     {
         "name": "Rotted King's Escort",
@@ -4986,7 +5516,9 @@
             "green"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "3/30/Rotted_King's_Escort_Large.png",
+        "link": "Rotted_King's_Set#Escort"
     },
     {
         "name": "Spellbound Mage Skirt",
@@ -5004,7 +5536,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "1/12/Spellbound_Mage_Battleskirt_Large.png",
+        "link": "Spellbound_Mage_Set#Battleskirt"
     },
     {
         "name": "Platelegs of the Earth King Regalia",
@@ -5022,7 +5556,9 @@
             "green"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "0/0e/The_Earth_King_Regalia_Platelegs_Large.png",
+        "link": "The_Earth_King_Regalia_Set#Platelegs"
     },
     {
         "name": "The Platelegs of Forgotten Things",
@@ -5041,7 +5577,9 @@
             "blue"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "9/9a/The_Platelegs_of_Forgotten_Things_Large.png",
+        "link": "The_Forgotten_Things_Set#Platelegs"
     },
     {
         "name": "The Vengeful Visage Bottoms",
@@ -5062,7 +5600,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "4/44/The_Vengeful_Visage_Bottoms_Large.png",
+        "link": "The_Vengeful_Visage_Set#Bottoms"
     },
     {
         "name": "Tower Armor Platelegs",
@@ -5082,7 +5622,9 @@
             "gray"
         ],
         "outline": "white",
-        "release": "ow"
+        "release": "ow",
+        "image": "1/1d/Tower_Armor_Platelegs.png",
+        "link": "Tower_Armor_Set#Platelegs"
     },
     {
         "name": "Void Lord Platelegs",
@@ -5099,7 +5641,9 @@
             "purple"
         ],
         "outline": "red",
-        "release": "ow"
+        "release": "ow",
+        "image": "5/5d/Void_Lord_Platelegs_Large.png",
+        "link": "Void_Lord_Set#Platelegs"
     },
     {
         "name": "Wolfram Leader Platelegs",
@@ -5117,7 +5661,9 @@
             "brown"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "d/d7/Wolfram_Leader_Platelegs_Large.png",
+        "link": "Wolfram_Leader_Set#Platelegs"
     },
     {
         "name": "World Sculptor's Platelegs",
@@ -5132,7 +5678,9 @@
         },
         "colors": [],
         "outline": "",
-        "release": "ow"
+        "release": "ow",
+        "image": "2/22/World_Sculptor_Platelegs_Large.png",
+        "link": "World_Sculptor_Set#Platelegs"
     },
     {
         "name": "Aquatic Explorer Platelegs",
@@ -5151,7 +5699,9 @@
             "gray"
         ],
         "outline": "purple",
-        "release": "fs"
+        "release": "fs",
+        "image": "1/1f/Aquatic_Explorer_Platelegs_Large.png",
+        "link": "Aquatic_Explorer_Set#Platelegs"
     },
     {
         "name": "Platelegs of a Forgotten Life",
@@ -5171,7 +5721,9 @@
             "gray"
         ],
         "outline": "red",
-        "release": "fs"
+        "release": "fs",
+        "image": "1/1d/Platelegs_of_a_Forgotten_Life_Large.png",
+        "link": "Forgotten_Life_Set#Platelegs"
     },
     {
         "name": "New Voice Platelegs",
@@ -5191,7 +5743,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fs"
+        "release": "fs",
+        "image": "7/74/New_Voice_Platelegs_Large.png",
+        "link": "New_Voice_Set#Platelegs"
     },
     {
         "name": "Romo Robo-Legs",
@@ -5208,7 +5762,9 @@
             "gray"
         ],
         "outline": "white",
-        "release": "fs"
+        "release": "fs",
+        "image": "9/9f/Romo_Robo-Legs_Large.png",
+        "link": "Romo_Set#Robo-Legs"
     },
     {
         "name": "Wisecrack Leggings",
@@ -5229,7 +5785,9 @@
             "white"
         ],
         "outline": "red",
-        "release": "fs"
+        "release": "fs",
+        "image": "0/03/Wisecrack_Leggings_Large.png",
+        "link": "Wisecrack_Set#Leggings"
     },
     {
         "name": "Wooden Shorts",
@@ -5249,7 +5807,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "fs"
+        "release": "fs",
+        "image": "1/14/Wooden_Shorts_Large.png",
+        "link": "Woodwhack_Legionnaire_Set#Shorts"
     },
     {
         "name": "Bedrock Platelegs",
@@ -5268,7 +5828,9 @@
             "purple"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "4/46/BedrockPlatelegs.png",
+        "link": "Bedrock_Set#Platelegs"
     },
     {
         "name": "Corrupted Gold Platelegs",
@@ -5285,7 +5847,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "d/de/CorruptGoldPlatelegs.png",
+        "link": "Corrupted_Gold_Set#Platelegs"
     },
     {
         "name": "Corrupted Onyx Platelegs",
@@ -5302,7 +5866,9 @@
             "black"
         ],
         "outline": "yellow",
-        "release": "rn"
+        "release": "rn",
+        "image": "0/07/CorruptOnyxPlatelegs.png",
+        "link": "Corrupted_Onyx_Set#Platelegs"
     },
     {
         "name": "Court Jester Pants",
@@ -5321,7 +5887,9 @@
             "green"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "3/36/CourtJesterPants.png",
+        "link": "Court_Jester_Set#Pants"
     },
     {
         "name": "Falling Light Mage Robe Bottoms",
@@ -5341,7 +5909,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "8/85/FallingLightMageRobeBottoms.png",
+        "link": "Falling_Light_Set#Robe_Bottoms"
     },
     {
         "name": "Fire Spellbound Mage Skirt",
@@ -5361,7 +5931,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "1/10/FireSpellboundMageSkirt.png",
+        "link": "Fire_Spellbound_Mage_Set#Skirt"
     },
     {
         "name": "Guttermouth Platelegs",
@@ -5381,7 +5953,9 @@
             "green"
         ],
         "outline": "green",
-        "release": "rn"
+        "release": "rn",
+        "image": "1/10/GMPlatelegs.png",
+        "link": "Guttermouth_Set#Platelegs"
     },
     {
         "name": "Ice Spellbound Mage Skirt",
@@ -5399,7 +5973,9 @@
             "blue"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "0/01/IceSpellboundMageSkirt.png",
+        "link": "Ice_Spellbound_Mage_Set#Skirt"
     },
     {
         "name": "Nightmare Prowler Leggings",
@@ -5418,7 +5994,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "c/c1/NightmareProwlerLeggings.png",
+        "link": "Nightmare_Prowler_Set#Legs"
     },
     {
         "name": "Pantry Leech Platelegs",
@@ -5439,7 +6017,9 @@
             "green"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "2/28/PLL.png",
+        "link": "Pantry_Leech_Set#Platelegs"
     },
     {
         "name": "Rising Dark Robe Bottoms",
@@ -5457,7 +6037,9 @@
             "black"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "c/cd/RisingDarkMageRobeBottoms.png",
+        "link": "Rising_Dark_Set#Robe_Bottoms"
     },
     {
         "name": "Roadblocks Legs",
@@ -5487,7 +6069,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "rn"
+        "release": "rn",
+        "image": "8/89/RoadblocksLegs.png",
+        "link": "Roadblocks_Set#Legs"
     },
     {
         "name": "The Drake's Pants",
@@ -5506,7 +6090,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "b/ba/TheDrake'sPants.png",
+        "link": "The_Drake's_Set#Pants"
     },
     {
         "name": "U-Life Platelegs",
@@ -5528,7 +6114,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "f/fd/U-LifePlatelegs.png",
+        "link": "U-Life_Set#Platelegs"
     },
     {
         "name": "Wired Fury Platelegs",
@@ -5545,7 +6133,9 @@
             "red"
         ],
         "outline": "red",
-        "release": "rn"
+        "release": "rn",
+        "image": "d/d7/WiredFuryPlatelegs.png",
+        "link": "Wired_Fury_Set#Platelegs"
     },
     {
         "name": "Green Spectral Vanguard Platelegs",
@@ -5563,7 +6153,9 @@
             "green"
         ],
         "outline": "green",
-        "release": "nb"
+        "release": "nb",
+        "image": "6/66/GreenSVLegs.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Green"
     },
     {
         "name": "Blue Spectral Vanguard Platelegs",
@@ -5581,7 +6173,9 @@
             "blue"
         ],
         "outline": "blue",
-        "release": "nb"
+        "release": "nb",
+        "image": "a/a8/BlueSVLegs.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Blue"
     },
     {
         "name": "Purple Spectral Vanguard Platelegs",
@@ -5599,7 +6193,9 @@
             "purple"
         ],
         "outline": "yellow",
-        "release": "nb"
+        "release": "nb",
+        "image": "4/47/PurpleSVLegs.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Purple"
     },
     {
         "name": "Black Spectral Vanguard Platelegs",
@@ -5618,7 +6214,9 @@
             "black"
         ],
         "outline": "purple",
-        "release": "nb"
+        "release": "nb",
+        "image": "7/74/BlackSVLegs.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Black"
     },
     {
         "name": "White Spectral Vanguard Platelegs",
@@ -5637,7 +6235,9 @@
             "white"
         ],
         "outline": "red",
-        "release": "nb"
+        "release": "nb",
+        "image": "8/8c/WhiteSVLegs.png",
+        "link": "Spectral_Vanguard_Armor_Sets#White"
     },
     {
         "name": "True Spectral Vanguard Platelegs",
@@ -5656,7 +6256,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "nb"
+        "release": "nb",
+        "image": "8/8a/TrueSVlegs.png",
+        "link": "Spectral_Vanguard_Armor_Sets#True"
     },
     {
         "name": "Fire Guild Knight Platelegs",
@@ -5675,7 +6277,9 @@
             "yellow"
         ],
         "outline": "green",
-        "release": "sp"
+        "release": "sp",
+        "image": "2/2c/Fire_Guild_Knight_Platelegs.png",
+        "link": "Fire_Guild_Knight_Set#Platelegs"
     },
     {
         "name": "Water Guild Knight Platelegs",
@@ -5694,7 +6298,9 @@
             "blue"
         ],
         "outline": "green",
-        "release": "sp"
+        "release": "sp",
+        "image": "5/5b/Water_Guild_Knight_Platelegs.png",
+        "link": "Water_Guild_Knight_Set#Platelegs"
     },
     {
         "name": "Temple Fool Legs",
@@ -5715,7 +6321,9 @@
             "red"
         ],
         "outline": "green",
-        "release": "sp"
+        "release": "sp",
+        "image": "b/bf/Temple_Fool_Legs.png",
+        "link": "Temple_Fool_Set#Legs"
     },
     {
         "name": "Machine Rug Platelegs",
@@ -5736,7 +6344,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "sp"
+        "release": "sp",
+        "image": "1/16/Machine_Rug_Platelegs.png",
+        "link": "Machine_Rug_Set#Platelegs"
     },
     {
         "name": "Robotic Biological Chemistry Legs",
@@ -5756,7 +6366,9 @@
             "gray"
         ],
         "outline": "yellow",
-        "release": "sp"
+        "release": "sp",
+        "image": "e/e4/Drillbit_Legs.png",
+        "link": "Drillbit_Set#Legs"
     },
     {
         "name": "Adventurer's Guard",
@@ -5774,7 +6386,9 @@
             "brown"
         ],
         "outline": "red",
-        "release": "sp"
+        "release": "sp",
+        "image": "8/82/Adventurer's_Guard.png",
+        "link": "Adventurer's_Armor_Set#Guard"
     },
     {
         "name": "Frog Costume #1 - Legs",
@@ -5790,7 +6404,9 @@
             "green"
         ],
         "outline": "green",
-        "release": "nb"
+        "release": "nb",
+        "image": "f/f8/Frog1legs.png",
+        "link": "Frog_Costumes#Frog_Costume_#1"
     },
     {
         "name": "Frog Costume #2 - Legs",
@@ -5807,7 +6423,9 @@
             "red"
         ],
         "outline": "yellow",
-        "release": "nb"
+        "release": "nb",
+        "image": "8/86/Frog2legs.png",
+        "link": "Frog_Costumes#Frog_Costume_#2"
     },
     {
         "name": "Frog Costume #3 - Legs",
@@ -5825,7 +6443,9 @@
             "orange"
         ],
         "outline": "white",
-        "release": "nb"
+        "release": "nb",
+        "image": "8/84/Frog3legs.png",
+        "link": "Frog_Costumes#Frog_Costume_#3"
     },
     {
         "name": "Frog Costume #4 - Legs",
@@ -5842,7 +6462,9 @@
             "red"
         ],
         "outline": "red",
-        "release": "nb"
+        "release": "nb",
+        "image": "7/78/Frog4legs.png",
+        "link": "Frog_Costumes#Frog_Costume_#4"
     },
     {
         "name": "Frog Costume #5 - Legs",
@@ -5858,7 +6480,9 @@
             "black"
         ],
         "outline": "purple",
-        "release": "nb"
+        "release": "nb",
+        "image": "9/93/Frog5legs.png",
+        "link": "Frog_Costumes#Frog_Costume_#5"
     },
     {
         "name": "Bronze Boots",
@@ -5875,7 +6499,9 @@
             "brown"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "c/cd/Bronze_Boots.png",
+        "link": "Ore-Based_Armor_Sets#Bronze"
     },
     {
         "name": "Iron Boots",
@@ -5892,7 +6518,9 @@
             "gray"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "c/c0/Iron_Boots.png",
+        "link": "Ore-Based_Armor_Sets#Iron"
     },
     {
         "name": "Cobalt Boots",
@@ -5909,7 +6537,9 @@
             "blue"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "a/aa/Cobalt_Boots.png",
+        "link": "Ore-Based_Armor_Sets#Cobalt"
     },
     {
         "name": "Titanium Boots",
@@ -5926,7 +6556,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "5/53/Titatnium_Boots.png",
+        "link": "Ore-Based_Armor_Sets#Titanium"
     },
     {
         "name": "Gold Boots",
@@ -5943,7 +6575,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/73/Gold_Boots.png",
+        "link": "Ore-Based_Armor_Sets#Gold"
     },
     {
         "name": "Onyx Boots",
@@ -5960,7 +6594,9 @@
             "black"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "f/f1/Onyx_Boots.png",
+        "link": "Ore-Based_Armor_Sets#Onyx"
     },
     {
         "name": "Black Shoes",
@@ -5976,7 +6612,9 @@
             "black"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/94/Black_Shoes.png",
+        "link": "Clothing#Shoes"
     },
     {
         "name": "Brown Shoes",
@@ -5992,7 +6630,9 @@
             "brown"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/05/Brown_Shoes.png",
+        "link": "Clothing#Shoes"
     },
     {
         "name": "Green Shoes",
@@ -6008,7 +6648,9 @@
             "green"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/9c/Green_Shoes.png",
+        "link": "Clothing#Shoes"
     },
     {
         "name": "Red Shoes",
@@ -6024,7 +6666,9 @@
             "red"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "8/88/Red_Shoes.png",
+        "link": "Clothing#Shoes"
     },
     {
         "name": "White Shoes",
@@ -6040,7 +6684,9 @@
             "white"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "a/ae/White_Shoes.png",
+        "link": "Clothing#Shoes"
     },
     {
         "name": "Guardian Lower Legs",
@@ -6062,7 +6708,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "f/ff/GuardianBoots.png",
+        "link": "Guardian_Set#Lower_Legs"
     },
     {
         "name": "Black Supershoes",
@@ -6079,7 +6727,9 @@
             "blue"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "a/aa/BlackSupershoes.png",
+        "link": "Black_Supershoes"
     },
     {
         "name": "Clown Shoes",
@@ -6100,7 +6750,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "rn"
+        "release": "rn",
+        "image": "c/cb/ClownShoes-0.png",
+        "link": "Clown_Shoes"
     },
     {
         "name": "Dark Powerboots",
@@ -6117,7 +6769,9 @@
             "black"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "c/c8/DarkPowerboots.png",
+        "link": "Dark_Powerboots"
     },
     {
         "name": "Golden Powerboots",
@@ -6134,7 +6788,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/08/GoldenPowerboots.png",
+        "link": "Golden_Powerboots"
     },
     {
         "name": "Green Powerboots",
@@ -6151,7 +6807,9 @@
             "green"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "8/8b/GreenPowerboots.png",
+        "link": "Green_Powerboots"
     },
     {
         "name": "Grey Supershoes",
@@ -6168,7 +6826,9 @@
             "gray"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "3/3d/GreySupershoes.png",
+        "link": "Grey_Supershoes"
     },
     {
         "name": "Jump Boots",
@@ -6186,7 +6846,9 @@
             "orange"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/7c/Jump_Boots.png",
+        "link": "Jump_Boots"
     },
     {
         "name": "Nightmare Boots",
@@ -6205,7 +6867,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "b/b3/NightmareBoots.png",
+        "link": "Nightmare_Boots"
     },
     {
         "name": "Otherworld Boots",
@@ -6223,7 +6887,9 @@
             "gray"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "3/30/OtherworldBoots.png",
+        "link": "Otherworld_Boots"
     },
     {
         "name": "Phantom Boots",
@@ -6240,7 +6906,9 @@
             "none"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "c/c5/PhantomBoots.png",
+        "link": "Phantom_Boots"
     },
     {
         "name": "Red Supershoes",
@@ -6257,7 +6925,9 @@
             "red"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "3/3f/RedSupershoes.png",
+        "link": "Red_Supershoes"
     },
     {
         "name": "Spider Stilts",
@@ -6277,7 +6947,9 @@
             "gray"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "2/29/SpiderStilts.png",
+        "link": "Spider_Stilts"
     },
     {
         "name": "Tag Red Lazer",
@@ -6295,7 +6967,9 @@
             "red"
         ],
         "outline": "black",
-        "release": "sp"
+        "release": "sp",
+        "image": "2/24/TagRedLazer.png",
+        "link": "Tag_Red_Lazer"
     },
     {
         "name": "Blue Eye Amulet",
@@ -6314,7 +6988,9 @@
             "white"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "d/da/Blue_Eye_Amulet.png",
+        "link": "Blue_Eye_Amulet"
     },
     {
         "name": "Green Crystal Amulet",
@@ -6332,7 +7008,9 @@
             "green"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "3/32/Green_Crystal_Amulet.png",
+        "link": "Green_Crystal_Amulet"
     },
     {
         "name": "Peapod Necklace",
@@ -6352,7 +7030,9 @@
             "yellow"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "f/fc/Peapod_Necklace.png",
+        "link": "Peapod_Necklace"
     },
     {
         "name": "Radiant Medallion",
@@ -6368,7 +7048,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "sp"
+        "release": "sp",
+        "image": "e/e3/Radiant_Medallion.png",
+        "link": "Radiant_Medallion"
     },
     {
         "name": "Seer's Pendant I",
@@ -6386,7 +7068,9 @@
             "yellow"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "d/d9/Seer's_Pendant_I.png",
+        "link": "Seer's_Pendant_I"
     },
     {
         "name": "Seer's Pendant II",
@@ -6403,7 +7087,9 @@
             "yellow"
         ],
         "outline": "blue",
-        "release": "fr"
+        "release": "fr",
+        "image": "b/bf/Seer's_Pendant_II.png",
+        "link": "Seer's_Pendant_II"
     },
     {
         "name": "Shattered Blade Necklace",
@@ -6418,7 +7104,9 @@
             "orange"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "3/33/ShatteredBladeNecklace.png",
+        "link": "Shattered_Blade_Necklace"
     },
     {
         "name": "Tri-Color Necklace",
@@ -6438,7 +7126,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/73/Tri-Color_Necklace.png",
+        "link": "Tri-Color_Necklace"
     },
     {
         "name": "Vital Pendant",
@@ -6456,7 +7146,9 @@
             "red"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/94/Vital_Pendant.png",
+        "link": "Vital_Pendant"
     },
     {
         "name": "Angel Wings",
@@ -6470,7 +7162,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "6/6f/Angel_Wings.png",
+        "link": "Angel_Wings"
     },
     {
         "name": "Dark Angel Wings",
@@ -6484,7 +7178,9 @@
             "black"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "4/46/Dark_Angel_Wings.png",
+        "link": "Dark_Angel_Wings"
     },
     {
         "name": "Dreamnet",
@@ -6501,7 +7197,9 @@
             "purple"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "6/6e/Dreamnet.png",
+        "link": "Dreamnet"
     },
     {
         "name": "Emperor's Cape",
@@ -6519,7 +7217,9 @@
             "yellow"
         ],
         "outline": "green",
-        "release": "rn"
+        "release": "rn",
+        "image": "c/cf/EmperorCape.png",
+        "link": "Emperor's_Cape"
     },
     {
         "name": "Eyes of the Sword",
@@ -6536,7 +7236,9 @@
             "red"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "b/bc/Eyes_of_the_Sword_Large.png",
+        "link": "Eyes_of_the_Sword"
     },
     {
         "name": "Meeting Remnant",
@@ -6559,7 +7261,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "1/15/MeetingRemnant-0.png",
+        "link": "Meeting_Remnant"
     },
     {
         "name": "Ranger's Backpack",
@@ -6577,7 +7281,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "7/73/Ranger's_Backpack_Large.png",
+        "link": "Ranger's_Backpack"
     },
     {
         "name": "Coral Ring",
@@ -6596,7 +7302,9 @@
             "white"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "8/83/Coral_Ring.png",
+        "link": "Coral_Ring"
     },
     {
         "name": "Hightower Ring",
@@ -6614,7 +7322,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/07/Hightower_Ring.png",
+        "link": "Hightower_Ring"
     },
     {
         "name": "Mud Ring",
@@ -6631,7 +7341,9 @@
             "purple"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "a/a9/Mud_Ring.png",
+        "link": "Mud_Ring"
     },
     {
         "name": "Ring of Power",
@@ -6649,7 +7361,9 @@
             "red"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "e/e0/Ring_of_Power.png",
+        "link": "Ring_of_Power"
     },
     {
         "name": "Ring of the Five Knights",
@@ -6670,7 +7384,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/9e/Ring_of_the_Five_Knights.png",
+        "link": "Ring_of_the_Five_Knights"
     },
     {
         "name": "Scorched Soul's Ring",
@@ -6690,7 +7406,9 @@
             "yellow"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/01/Scorched_Soul's_Ring.png",
+        "link": "Scorched_Soul's_Ring"
     },
     {
         "name": "Strange Creature Ring",
@@ -6708,7 +7426,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "9/9f/Strange_Creature_Ring.png",
+        "link": "Strange_Creature_Ring"
     },
     {
         "name": "Tough Green Ring",
@@ -6725,7 +7445,9 @@
             "green"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "1/1b/Tough_Green_Ring.png",
+        "link": "Tough_Green_Ring"
     },
     {
         "name": "Ancient Dragon Horns",
@@ -6741,7 +7463,9 @@
             "brown"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "8/8f/Ancient_Horns.png",
+        "link": "Ancient_Dragon_Horns"
     },
     {
         "name": "Antennae",
@@ -6759,7 +7483,9 @@
             "green"
         ],
         "outline": "yellow",
-        "release": "fr"
+        "release": "fr",
+        "image": "e/e4/Antennae.png",
+        "link": "Antennae"
     },
     {
         "name": "Antlers",
@@ -6775,7 +7501,9 @@
             "white"
         ],
         "outline": "green",
-        "release": "fr"
+        "release": "fr",
+        "image": "4/45/Antler.png",
+        "link": "Antlers"
     },
     {
         "name": "Big Orange Eyes",
@@ -6793,7 +7521,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "d/d7/Big_Orange_Eyes_Large.png",
+        "link": "Big_Orange_Eyes"
     },
     {
         "name": "Black Antlers",
@@ -6809,7 +7539,9 @@
             "black"
         ],
         "outline": "yellow",
-        "release": "rn"
+        "release": "rn",
+        "image": "6/63/BlackAntlers.png",
+        "link": "Black_Antlers"
     },
     {
         "name": "Brain Monocle",
@@ -6828,7 +7560,9 @@
             "red"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "c/c0/BrainMonocle.png",
+        "link": "Brain_Monocle"
     },
     {
         "name": "Bunny Ears",
@@ -6845,7 +7579,9 @@
             "white"
         ],
         "outline": "blue",
-        "release": "sp"
+        "release": "sp",
+        "image": "5/5c/BunnyEars.png",
+        "link": "Bunny_Ears"
     },
     {
         "name": "Enchanted Spectacles",
@@ -6863,7 +7599,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "5/50/EnchantedSpectacles.png",
+        "link": "Enchanted_Spectacles"
     },
     {
         "name": "Front Bullet Pack",
@@ -6882,7 +7620,9 @@
             "yellow"
         ],
         "outline": "white",
-        "release": "rn"
+        "release": "rn",
+        "image": "2/20/FrontBulletPack.png",
+        "link": "Front_Bullet_Pack"
     },
     {
         "name": "Gold Antlers",
@@ -6898,7 +7638,9 @@
             "yellow"
         ],
         "outline": "purple",
-        "release": "rn"
+        "release": "rn",
+        "image": "e/e7/GoldAntlers.png",
+        "link": "Gold_Antlers"
     },
     {
         "name": "Pirate Hook",
@@ -6914,7 +7656,9 @@
             "gray"
         ],
         "outline": "purple",
-        "release": "sp"
+        "release": "sp",
+        "image": "0/0b/PirateHook.png",
+        "link": "Pirate_Hook"
     },
     {
         "name": "Ranger Spectacles",
@@ -6932,7 +7676,9 @@
             "green"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "7/71/RangerSpectacles.png",
+        "link": "Ranger_Spectacles"
     },
     {
         "name": "Shades",
@@ -6948,7 +7694,9 @@
             "black"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "3/3b/Shades.png",
+        "link": "Shades"
     },
     {
         "name": "Spectacles",
@@ -6965,7 +7713,9 @@
             "brown"
         ],
         "outline": "white",
-        "release": "fr"
+        "release": "fr",
+        "image": "3/3d/Spectacles.png",
+        "link": "Spectacles"
     },
     {
         "name": "Spooky Grin",
@@ -6984,7 +7734,9 @@
             "white"
         ],
         "outline": "purple",
-        "release": "fr"
+        "release": "fr",
+        "image": "0/04/Spooky_Grin.png",
+        "link": "Spooky_Grin"
     },
     {
         "name": "Xenoculous",
@@ -7002,7 +7754,9 @@
             "red"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "9/91/Xenoculous_Large.png",
+        "link": "Xenoculous"
     },
     {
         "name": "Yaaxil Crest",
@@ -7021,6 +7775,8 @@
             "orange"
         ],
         "outline": "purple",
-        "release": "ow"
+        "release": "ow",
+        "image": "2/21/Yaaxil_Crest_Large.png",
+        "link": "Yaaxil_Crest"
     }
 ]
