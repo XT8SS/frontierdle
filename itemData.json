@@ -1330,7 +1330,7 @@
             "red",
             "yellow"
         ],
-        "outline": "",
+        "outline": "purple",
         "release": "rn",
         "image": "3/39/NightmareProwlerHat.png",
         "link": "Nightmare_Prowler_Set#Hat"
@@ -2732,6 +2732,25 @@
         "link": "Frog_Costumes#Frog_Costume_#5"
     },
     {
+        "name": "Kenneth's Paroxysm Flower Helmet",
+        "slot": "head",
+        "stats": ["armor"],
+        "cost": {
+            "min": 200000000,
+            "max": 200000000
+        },
+        "colors": [
+            "black",
+            "brown",
+            "pink",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "none",
+        "image": "f/f9/KPFH.png",
+        "link": "Kenneth's_Paroxysm_Flower_Helmet"
+    },
+    {
         "name": "Bronze Platebody",
         "slot": "body",
         "stats": [
@@ -4111,7 +4130,8 @@
         },
         "colors": [
             "gray",
-            "green"
+            "green",
+            "red"
         ],
         "outline": "white",
         "release": "rn",
@@ -6014,7 +6034,8 @@
         },
         "colors": [
             "gray",
-            "green"
+            "green",
+            "red"
         ],
         "outline": "white",
         "release": "rn",
