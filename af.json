@@ -1,0 +1,19 @@
+{
+    "name": "Kenneth's Paroxysm Flower Helmet",
+    "slot": "head",
+    "stats": ["armor"],
+    "cost": {
+        "min": 200000000,
+        "max": 200000000
+    },
+    "colors": [
+        "black",
+        "brown",
+        "pink",
+        "white"
+    ],
+    "outline": "purple",
+    "release": "none",
+    "image": "f/f9/KPFH.png",
+    "link": "Kenneth's_Paroxysm_Flower_Helmet"
+}
