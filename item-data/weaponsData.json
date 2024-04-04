@@ -1,0 +1,1728 @@
+[
+    {
+        "name": "Blade of the Throne",
+        "special": true,
+        "types": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 6200000,
+            "max": 6600000
+        },
+        "colors": [
+            "black",
+            "blue"
+        ],
+        "outline": "purple",
+        "release": "ow",
+        "image": "e/e6/Blade_of_the_Throne.png",
+        "link": "Blade_of_the_Throne"
+    },
+    {
+        "name": "Brainstaff",
+        "special": true,
+        "types": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "brown",
+            "pink"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "e/e0/BrainStaff.png",
+        "link": "Brainstaff"
+    },
+    {
+        "name": "Celestial Powers Spellbook",
+        "special": true,
+        "types": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "brown",
+            "gray",
+            "white"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "f/fe/CelestialSpellbook.png",
+        "link": "Celestial_Powers_Spellbook"
+    },
+    {
+        "name": "Darktoad Spellbook",
+        "special": true,
+        "types": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 1200000,
+            "max": 1200000
+        },
+        "colors": [
+            "brown",
+            "pink",
+            "purple"
+        ],
+        "outline": "yellow",
+        "release": "fr",
+        "image": "b/b9/DarktoadSpellbook.png",
+        "link": "Darktoad_Spellbook"
+    },
+    {
+        "name": "Firesoul Spellbook",
+        "special": true,
+        "types": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 875000,
+            "max": 875000
+        },
+        "colors": [
+            "brown",
+            "orange",
+            "red",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr",
+        "image": "b/b3/FiresoulSpellbook.png",
+        "link": "Firesoul_Spellbook"
+    },
+    {
+        "name": "Frontier Spellbook",
+        "special": true,
+        "types": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 15000000,
+            "max": 15000000
+        },
+        "colors": [
+            "blue",
+            "gray",
+            "purple",
+            "red",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow",
+        "image": "a/a6/Frontier_Spellbook_Large.png",
+        "link": "Frontier_Spellbook"
+    },
+    {
+        "name": "Greater Storms Spellbook",
+        "special": true,
+        "types": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 3400000,
+            "max": 3400000
+        },
+        "colors": [
+            "blue",
+            "brown"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "4/46/StormsSpellbook.png",
+        "link": "Greater_Storms_Spellbook"
+    },
+    {
+        "name": "Nature's Wrath Spellbook",
+        "special": true,
+        "types": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "black",
+            "gray",
+            "green"
+        ],
+        "outline": "white",
+        "release": "rn",
+        "image": "1/13/Nature's_Wrath_Spellbook.png",
+        "link": "Nature's_Wrath_Spellbook"
+    },
+    {
+        "name": "Staff of Dreams",
+        "special": true,
+        "types": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 13000000,
+            "max": 15000000
+        },
+        "colors": [
+            "brown",
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "sp",
+        "image": "c/c8/StaffofDreams-0.png",
+        "link": "Staff_of_Dreams"
+    },
+    {
+        "name": "Wicked Junk Spellbook",
+        "special": true,
+        "types": [
+            "magicDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "gray",
+            "yellow"
+        ],
+        "outline": "green",
+        "release": "rn",
+        "image": "0/02/JunkSpellbook.png",
+        "link": "Wicked_Junk_Spellbook"
+    },
+    {
+        "name": "Bronze Dagger",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 390,
+            "max": 390
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "a/a0/Bronze_Dagger.png",
+        "link": "Bronze_Dagger"
+    },
+    {
+        "name": "Bronze Greatsword",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 800,
+            "max": 800
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "d/d9/Bronze_Greatsword.png",
+        "link": "Bronze_Greatsword"
+    },
+    {
+        "name": "Bronze Rapier",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 600,
+            "max": 600
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "0/0c/Bronze_Rapier.png",
+        "link": "Bronze_Rapier"
+    },
+    {
+        "name": "Bronze Scimitar",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 600,
+            "max": 600
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "4/49/Bronze_Scimitar.png",
+        "link": "Bronze_Scimitar"
+    },
+    {
+        "name": "Iron Dagger",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 1600,
+            "max": 1600
+        },
+        "colors": [
+            "black",
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "3/3a/Iron_Dagger.png",
+        "link": "Iron_Dagger"
+    },
+    {
+        "name": "Iron Greatsword",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 3100,
+            "max": 3100
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "9/9b/Iron_Greatsword.png",
+        "link": "Iron_Greatsword"
+    },
+    {
+        "name": "Iron Rapier",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2400,
+            "max": 2400
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "c/c1/Iron_Rapier.png",
+        "link": "Iron_Rapier"
+    },
+    {
+        "name": "Iron Scimitar",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2400,
+            "max": 2400
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "f/fa/Iron_Scimitar.png",
+        "link": "Iron_Scimitar"
+    },
+    {
+        "name": "Cobalt Dagger",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 9800,
+            "max": 9800
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "1/1e/Cobalt_Dagger.png",
+        "link": "Cobalt_Dagger"
+    },
+    {
+        "name": "Cobalt Greatsword",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 20000,
+            "max": 20000
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "2/27/Cobalt_Greatsword.png",
+        "link": "Cobalt_Greatsword"
+    },
+    {
+        "name": "Cobalt Rapier",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 14800,
+            "max": 14800
+        },
+        "colors": [
+            "blue"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "3/35/Cobalt_Rapier.png",
+        "link": "Cobalt_Rapier"
+    },
+    {
+        "name": "Cobalt Scimitar",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 14800,
+            "max": 14800
+        },
+        "colors": [
+            "blue",
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "5/53/Cobalt_Scimitar.png",
+        "link": "Cobalt_Scimitar"
+    },
+    {
+        "name": "Titanium Dagger",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 39000,
+            "max": 39000
+        },
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "6/67/Titanium_Dagger.png",
+        "link": "Titanium_Dagger"
+    },
+    {
+        "name": "Titanium Greatsword",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 78000,
+            "max": 78000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "e/e7/Titanium_Greatsword.png",
+        "link": "Titanium_Greatsword"
+    },
+    {
+        "name": "Titanium Rapier",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 60000,
+            "max": 60000
+        },
+        "colors": [
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "7/7f/Titanium_Rapier.png",
+        "link": "Titanium_Rapier"
+    },
+    {
+        "name": "Titanium Scimitar",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 60000,
+            "max": 60000
+        },
+        "colors": [
+            "brown",
+            "white"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "e/e7/Titanium_Scimitar.png",
+        "link": "Titanium_Scimitar"
+    },
+    {
+        "name": "Gold Dagger",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 97000,
+            "max": 97000
+        },
+        "colors": [
+            "brown",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "0/02/Gold_Dagger.png",
+        "link": "Gold_Dagger"
+    },
+    {
+        "name": "Gold Greatsword",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 190000,
+            "max": 190000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "7/77/Gold_Greatsword.png",
+        "link": "Gold_Greatsword"
+    },
+    {
+        "name": "Gold Rapier",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 150000,
+            "max": 150000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "c/c7/Gold_Rapier.png",
+        "link": "Gold_Rapier"
+    },
+    {
+        "name": "Gold Scimitar",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 150000,
+            "max": 150000
+        },
+        "colors": [
+            "brown",
+            "yellow"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "7/75/Gold_Scimitar.png",
+        "link": "Gold_Scimitar"
+    },
+    {
+        "name": "Onyx Dagger",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 200000,
+            "max": 200000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "1/19/Onyx_Dagger.png",
+        "link": "Onyx_Dagger"
+    },
+    {
+        "name": "Onyx Greatsword",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 380000,
+            "max": 380000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "9/97/Onyx_Greatsword.png",
+        "link": "Onyx_Greatsword"
+    },
+    {
+        "name": "Onyx Rapier",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 300000,
+            "max": 300000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "c/cf/Onyx_Rapier.png",
+        "link": "Onyx_Rapier"
+    },
+    {
+        "name": "Onyx Scimitar",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 300000,
+            "max": 300000
+        },
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "7/70/Onyx_Scimitar.png",
+        "link": "Onyx_Scimitar"
+    },
+    {
+        "name": "Advanced Rapier",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 700000,
+            "max": 700000
+        },
+        "colors": [
+            "gray",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr",
+        "image": "c/c1/Advanced_Rapier.png",
+        "link": "Advanced_Rapier"
+    },
+    {
+        "name": "Ancient Sword",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 290000,
+            "max": 290000
+        },
+        "colors": [
+            "blue",
+            "brown"
+        ],
+        "outline": "green",
+        "release": "fr",
+        "image": "7/76/Ancient_Sword.png",
+        "link": "Ancient_Sword"
+    },
+    {
+        "name": "Ancient Treesword",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2100000,
+            "max": 2100000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "5/5b/Ancient_Treesword.png",
+        "link": "Ancient_Treesword"
+    },
+    {
+        "name": "Angel Greatsword",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "white",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "c/c3/Angel_Greatsword.png",
+        "link": "Angel_Greatsword"
+    },
+    {
+        "name": "Blacksmith's Hammer",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "black",
+            "gray"
+        ],
+        "outline": "green",
+        "release": "fr",
+        "image": "c/cd/Blacksmith's_Hammer.png",
+        "link": "Blacksmith's_Hammer"
+    },
+    {
+        "name": "Buzzing Sword",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 400000,
+            "max": 400000
+        },
+        "colors": [
+            "blue",
+            "white",
+            "yellow"
+        ],
+        "outline": "green",
+        "release": "fr",
+        "image": "f/fa/Buzzing_Sword.png",
+        "link": "Buzzing_Sword"
+    },
+    {
+        "name": "Contramagic Blade",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 465000,
+            "max": 465000
+        },
+        "colors": [
+            "brown",
+            "purple"
+        ],
+        "outline": "yellow",
+        "release": "fr",
+        "image": "0/0b/Contramagic_Blade.png",
+        "link": "Contramagic_Blade"
+    },
+    {
+        "name": "Corrupted Rapier",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2100000,
+            "max": 2100000
+        },
+        "colors": [
+            "black",
+            "blue"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "1/1f/Corrupted_Rapier-0.png",
+        "link": "Corrupted_Rapier"
+    },
+    {
+        "name": "Crypt Blade",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 5500000,
+            "max": 6000000
+        },
+        "colors": [
+            "purple"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "e/e1/Crypt_Blade.png",
+        "link": "Crypt_Blade"
+    },
+    {
+        "name": "Demon Greatsword",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "black",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "3/3e/Demon_Greatsword.png",
+        "link": "Demon_Greatsword"
+    },
+    {
+        "name": "Fantastic Greatsword",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "blue",
+            "gray",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "2/2e/Fantastic_Sword.png",
+        "link": "Fantastic_Greatsword"
+    },
+    {
+        "name": "Featherblade",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 220000,
+            "max": 220000
+        },
+        "colors": [
+            "black",
+            "white",
+            "yellow"
+        ],
+        "outline": "green",
+        "release": "fr",
+        "image": "1/16/Featherblade.png",
+        "link": "Featherblade"
+    },
+    {
+        "name": "Frail Wooden Sword",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 8,
+            "max": 8
+        },
+        "colors": [
+            "brown"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "d/d2/Frail_Wooden_Sword.png",
+        "link": "Frail_Wooden_Sword"
+    },
+    {
+        "name": "Frontier Greatsword",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 15000000,
+            "max": 15000000
+        },
+        "colors": [
+            "blue",
+            "gray",
+            "red",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow",
+        "image": "2/27/Frontier_Greatsword.png",
+        "link": "Frontier_Greatsword"
+    },
+    {
+        "name": "Grandsword",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 660000,
+            "max": 660000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "yellow",
+        "release": "",
+        "image": "a/a1/Grandsword.png",
+        "link": "Grandsword"
+    },
+    {
+        "name": "Grass Rapier",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 300000,
+            "max": 300000
+        },
+        "colors": [
+            "gray",
+            "green"
+        ],
+        "outline": "yellow",
+        "release": "fr",
+        "image": "4/4e/Grass_Rapier.png",
+        "link": "Grass_Rapier"
+    },
+    {
+        "name": "Great Scimitar",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 200000,
+            "max": 200000
+        },
+        "colors": [
+            "brown",
+            "white"
+        ],
+        "outline": "blue",
+        "release": "fr",
+        "image": "0/05/Great_Scimitar.png",
+        "link": "Great_Scimitar"
+    },
+    {
+        "name": "Hammer Knight's Hammer",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 350000,
+            "max": 350000
+        },
+        "colors": [
+            "brown",
+            "white",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr",
+        "image": "7/75/Hammer_Knight's_Hammer.png",
+        "link": "Hammer_Knight's_Hammer"
+    },
+    {
+        "name": "Honoring Blade",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "brown",
+            "yellow"
+        ],
+        "outline": "black",
+        "release": "nb",
+        "image": "e/e4/SwordofJustice.png",
+        "link": "Honoring_Blade"
+    },
+    {
+        "name": "Hook Scythe",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 290000,
+            "max": 290000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "gray"
+        ],
+        "outline": "green",
+        "release": "fr",
+        "image": "f/fc/Hooked_Scythe.png",
+        "link": "Hook_Scythe"
+    },
+    {
+        "name": "Inferno Hammer",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "orange",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr",
+        "image": "d/d4/Inferno_Hammer.png",
+        "link": "Inferno_Hammer"
+    },
+    {
+        "name": "Inferno Sword",
+        "special": false,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 320000,
+            "max": 320000
+        },
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "outline": "yellow",
+        "release": "fr",
+        "image": "2/29/Inferno_Sword.png",
+        "link": "Inferno_Sword"
+    },
+    {
+        "name": "Jade Superhammer",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 3000000,
+            "max": 3000000
+        },
+        "colors": [
+            "brown",
+            "green"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "f/f2/Jade_Superhammer.png",
+        "link": "Jade_Superhammer"
+    },
+    {
+        "name": "Kotono",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 770000,
+            "max": 770000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "green",
+        "release": "fr",
+        "image": "a/a9/Kotono.png",
+        "link": "Kotono"
+    },
+    {
+        "name": "Power Axe",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 720000,
+            "max": 720000
+        },
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "fr",
+        "image": "5/56/Power_Axe.png",
+        "link": "Power_Axe"
+    },
+    {
+        "name": "Red King Greatsword",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "outline": "purple",
+        "release": "rn",
+        "image": "c/c1/RedKingGreatsword.png",
+        "link": "Red_King_Greatsword"
+    },
+    {
+        "name": "Red Power Fists",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "red"
+        ],
+        "outline": "red",
+        "release": "rn",
+        "image": "7/78/PowerFists.png",
+        "link": "Red_Power_Fists"
+    },
+    {
+        "name": "Rusted Coin Scythe",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2200000,
+            "max": 2200000
+        },
+        "colors": [
+            "blue",
+            "brown",
+            "gray"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "1/1d/Rusted_Coin_Scythe_Large.png",
+        "link": "Rusted_Coin_Scythe"
+    },
+    {
+        "name": "Tri-Blade Shifter",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 15000000,
+            "max": 15000000
+        },
+        "colors": [
+            "gray",
+            "purple"
+        ],
+        "outline": "white",
+        "release": "rn",
+        "image": "e/e7/Tri-Blade.png",
+        "link": "Tri-Blade_Shifter"
+    },
+    {
+        "name": "Ultrablade",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 1200000,
+            "max": 1200000
+        },
+        "colors": [
+            "blue",
+            "gray"
+        ],
+        "outline": "yellow",
+        "release": "fr",
+        "image": "7/77/Ultrablade.png",
+        "link": "Ultrablade"
+    },
+    {
+        "name": "Whapper Sword",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 555000,
+            "max": 555000
+        },
+        "colors": [
+            "black",
+            "brown",
+            "purple"
+        ],
+        "outline": "green",
+        "release": "fr",
+        "image": "3/3c/Whapper_Sword.png",
+        "link": "Whapper_Sword"
+    },
+    {
+        "name": "Zodsword",
+        "special": true,
+        "types": [
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2400000,
+            "max": 2400000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "c/cf/Zod_Sword.png",
+        "link": "Zodsword"
+    },
+    {
+        "name": "Void Spike Ultradagger",
+        "special": true,
+        "types": [
+            "armor",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "sp",
+        "image": "9/98/VoidSpikeUltradagger.png",
+        "link": "Void_Spike_Ultradagger"
+    },
+    {
+        "name": "Crossbow",
+        "special": false,
+        "types": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 10000,
+            "max": 10000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "7/79/Crossbow.png",
+        "link": "Crossbow"
+    },
+    {
+        "name": "Dragon King's Lance",
+        "special": true,
+        "types": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "c/c6/Dragon_King's_Lance.png",
+        "link": "Dragon_King's_Lance"
+    },
+    {
+        "name": "Frontier Stargun",
+        "special": false,
+        "types": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 15000000,
+            "max": 15000000
+        },
+        "colors": [
+            "blue",
+            "gray",
+            "red",
+            "yellow"
+        ],
+        "outline": "red",
+        "release": "ow",
+        "image": "1/18/Frontier_Stargun.png",
+        "link": "Frontier_Stargun"
+    },
+    {
+        "name": "Funky Driftlander",
+        "special": true,
+        "types": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 7070000,
+            "max": 7770000
+        },
+        "colors": [
+            "black"
+        ],
+        "outline": "purple",
+        "release": "ow",
+        "image": "5/50/Funky_Driftlander.png",
+        "link": "Funky_Driftlander"
+    },
+    {
+        "name": "Gilded Rifle",
+        "special": false,
+        "types": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "colors": [
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "fr",
+        "image": "a/a4/Gilded_Rifle.png",
+        "link": "Gilded_Rifle"
+    },
+    {
+        "name": "Gunfists",
+        "special": true,
+        "types": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 8000000,
+            "max": 8000000
+        },
+        "colors": [
+            "gray",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "rn",
+        "image": "c/c6/GunFists.png",
+        "link": "Gunfists"
+    },
+    {
+        "name": "Hunting Rifle",
+        "special": false,
+        "types": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 700000,
+            "max": 700000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "green",
+        "release": "fr",
+        "image": "e/e3/Hunter_Rifle.png",
+        "link": "Hunting_Rifle"
+    },
+    {
+        "name": "Marksman's Rifle",
+        "special": false,
+        "types": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "colors": [
+            "black",
+            "gray"
+        ],
+        "outline": "yellow",
+        "release": "fr",
+        "image": "e/eb/Marksman_Rifle.png",
+        "link": "Marksman's_Rifle"
+    },
+    {
+        "name": "Pellet Gun",
+        "special": false,
+        "types": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 5000,
+            "max": 5000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "white",
+        "release": "fr",
+        "image": "7/7c/Pellet_Gun.png",
+        "link": "Pellet_Gun"
+    },
+    {
+        "name": "Pipe Rifle",
+        "special": false,
+        "types": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 450000,
+            "max": 450000
+        },
+        "colors": [
+            "black",
+            "gray"
+        ],
+        "outline": "blue",
+        "release": "fr",
+        "image": "5/50/Pipe_Rifle.png",
+        "link": "Pipe_Rifle"
+    },
+    {
+        "name": "Ratboy Handgun",
+        "special": true,
+        "types": [
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 25000000,
+            "max": 25000000
+        },
+        "colors": [
+            "brown",
+            "gray"
+        ],
+        "outline": "white",
+        "release": "nb",
+        "image": "0/0b/RatboyHandgun.png",
+        "link": "Ratboy_Handgun"
+    },
+    {
+        "name": "The Jade Twin",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 7000000,
+            "max": 7000000
+        },
+        "colors": [
+            "black",
+            "green"
+        ],
+        "outline": "green",
+        "release": "rn",
+        "image": "9/95/TheJadeTwin.png",
+        "link": "The_Jade_Twin"
+    },
+    {
+        "name": "Eyeball of Reckoning Ultradagger",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "gray",
+            "pink",
+            "red"
+        ],
+        "outline": "yellow",
+        "release": "sp",
+        "image": "c/ce/Eyeball_of_Reckoning_Ultradagger.png",
+        "link": "Eyeball_of_Reckoning_Ultradagger"
+    },
+    {
+        "special": true,
+        "name": "Pureblood Dagger",
+        "types": [],
+        "cost": {
+            "min": 6600000,
+            "max": 6600000
+        },
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "outline": "white",
+        "release": "rn",
+        "image": "5/5b/Pureblood_Dagger.png",
+        "link": "Pureblood_Dagger"
+    },
+    {
+        "name": "Silver Crystal Ultradagger",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "blue",
+            "gray",
+            "white"
+        ],
+        "outline": "white",
+        "release": "sp",
+        "image": "8/8a/SilverCystalUltradagger.png",
+        "link": "Silver_Crystal_Ultradagger"
+    },
+    {
+        "name": "Salamander",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "colors": [
+            "green",
+            "pink"
+        ],
+        "outline": "white",
+        "release": "rn",
+        "image": "9/90/Salamander-2.png",
+        "link": "Salamander"
+    },
+    {
+        "name": "Orange Salamander",
+        "special": true,
+        "types": [
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "orange",
+            "pink"
+        ],
+        "outline": "white",
+        "release": "rn",
+        "image": "f/fc/OrangeSalamander.png",
+        "link": "Salamander"
+    },
+    {
+        "name": "Green Salamander",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "green",
+            "pink"
+        ],
+        "outline": "white",
+        "release": "rn",
+        "image": "5/53/GreenSalamander.png",
+        "link": "Salamander"
+    },
+    {
+        "name": "Purple Salamander",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg"
+        ],
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "colors": [
+            "pink",
+            "purple"
+        ],
+        "outline": "white",
+        "release": "rn",
+        "image": "e/e9/PurpleSalamander.png",
+        "link": "Salamander"
+    },
+    {
+        "name": "White Salamander",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "pink",
+            "white"
+        ],
+        "outline": "yellow",
+        "release": "rn",
+        "image": "5/5e/WhiteSalamander.png",
+        "link": "Salamander"
+    },
+    {
+        "name": "Black Salamander",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "colors": [
+            "black",
+            "pink"
+        ],
+        "outline": "yellow",
+        "release": "rn",
+        "image": "c/c3/BlackSalamander.png",
+        "link": "Salamander"
+    },
+    {
+        "name": "Gold Salamander",
+        "special": true,
+        "types": [
+            "magicDmg",
+            "meleeDmg",
+            "rangedDmg"
+        ],
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "colors": [
+            "pink",
+            "yellow"
+        ],
+        "outline": "purple",
+        "release": "rn",
+        "image": "c/c9/GoldSalamander.png",
+        "link": "Salamander"
+    },
+    {
+        "name": "Gnome Rocket Launcher",
+        "types": [],
+        "special": false,
+        "cost": {
+            "min": 50000000,
+            "max": 50000000
+        },
+        "colors": [
+            "brown",
+            "red"
+        ],
+        "outline": "red",
+        "release": "rn",
+        "image": "2/2d/GRL.png",
+        "link": "Gnome_Rocket_Launcher"
+    }
+]
