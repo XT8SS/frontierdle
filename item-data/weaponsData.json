@@ -198,444 +198,88 @@
         "link": "Wicked_Junk_Spellbook"
     },
     {
-        "name": "Bronze Dagger",
+        "name": "Bronze Weapons",
         "special": false,
-        "types": [
-            "meleeDmg"
-        ],
+        "types": ["meleeDmg"],
         "cost": {
             "min": 390,
-            "max": 390
-        },
-        "colors": [
-            "brown"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "a/a0/Bronze_Dagger.png",
-        "link": "Bronze_Dagger"
-    },
-    {
-        "name": "Bronze Greatsword",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 800,
             "max": 800
         },
-        "colors": [
-            "brown"
-        ],
+        "colors": ["brown"],
         "outline": "white",
         "release": "fr",
-        "image": "d/d9/Bronze_Greatsword.png",
-        "link": "Bronze_Greatsword"
+        "image": "7/78/Copper_Ore.png",
+        "link": "Ores"
     },
     {
-        "name": "Bronze Rapier",
+        "name": "Iron Weapons",
         "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 600,
-            "max": 600
-        },
-        "colors": [
-            "brown"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "0/0c/Bronze_Rapier.png",
-        "link": "Bronze_Rapier"
-    },
-    {
-        "name": "Bronze Scimitar",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 600,
-            "max": 600
-        },
-        "colors": [
-            "brown"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "4/49/Bronze_Scimitar.png",
-        "link": "Bronze_Scimitar"
-    },
-    {
-        "name": "Iron Dagger",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
+        "types": ["meleeDmg"],
         "cost": {
             "min": 1600,
-            "max": 1600
-        },
-        "colors": [
-            "black",
-            "gray"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "3/3a/Iron_Dagger.png",
-        "link": "Iron_Dagger"
-    },
-    {
-        "name": "Iron Greatsword",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 3100,
             "max": 3100
         },
-        "colors": [
-            "gray"
-        ],
+        "colors": ["gray"],
         "outline": "white",
         "release": "fr",
-        "image": "9/9b/Iron_Greatsword.png",
-        "link": "Iron_Greatsword"
+        "image": "8/87/Iron_Ore.png",
+        "link": "Ores"
     },
     {
-        "name": "Iron Rapier",
+        "name": "Cobalt Weapons",
         "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 2400,
-            "max": 2400
-        },
-        "colors": [
-            "gray"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "c/c1/Iron_Rapier.png",
-        "link": "Iron_Rapier"
-    },
-    {
-        "name": "Iron Scimitar",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 2400,
-            "max": 2400
-        },
-        "colors": [
-            "brown",
-            "gray"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "f/fa/Iron_Scimitar.png",
-        "link": "Iron_Scimitar"
-    },
-    {
-        "name": "Cobalt Dagger",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
+        "types": ["meleeDmg"],
         "cost": {
             "min": 9800,
-            "max": 9800
-        },
-        "colors": [
-            "blue"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "1/1e/Cobalt_Dagger.png",
-        "link": "Cobalt_Dagger"
-    },
-    {
-        "name": "Cobalt Greatsword",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 20000,
             "max": 20000
         },
-        "colors": [
-            "blue"
-        ],
+        "colors": ["blue"],
         "outline": "white",
         "release": "fr",
-        "image": "2/27/Cobalt_Greatsword.png",
-        "link": "Cobalt_Greatsword"
+        "image": "d/d9/Cobalt_Ore.png",
+        "link": "Ores"
     },
     {
-        "name": "Cobalt Rapier",
+        "name": "Titanium Weapons",
         "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 14800,
-            "max": 14800
-        },
-        "colors": [
-            "blue"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "3/35/Cobalt_Rapier.png",
-        "link": "Cobalt_Rapier"
-    },
-    {
-        "name": "Cobalt Scimitar",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 14800,
-            "max": 14800
-        },
-        "colors": [
-            "blue",
-            "brown"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "5/53/Cobalt_Scimitar.png",
-        "link": "Cobalt_Scimitar"
-    },
-    {
-        "name": "Titanium Dagger",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
+        "types": ["meleeDmg"],
         "cost": {
             "min": 39000,
-            "max": 39000
-        },
-        "colors": [
-            "gray",
-            "white"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "6/67/Titanium_Dagger.png",
-        "link": "Titanium_Dagger"
-    },
-    {
-        "name": "Titanium Greatsword",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 78000,
             "max": 78000
         },
-        "colors": [
-            "white"
-        ],
+        "colors": ["white"],
         "outline": "white",
         "release": "fr",
-        "image": "e/e7/Titanium_Greatsword.png",
-        "link": "Titanium_Greatsword"
+        "image": "3/34/Titanium_Ore.png",
+        "link": "Ores"
     },
     {
-        "name": "Titanium Rapier",
+        "name": "Gold Weapons",
         "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 60000,
-            "max": 60000
-        },
-        "colors": [
-            "white"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "7/7f/Titanium_Rapier.png",
-        "link": "Titanium_Rapier"
-    },
-    {
-        "name": "Titanium Scimitar",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 60000,
-            "max": 60000
-        },
-        "colors": [
-            "brown",
-            "white"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "e/e7/Titanium_Scimitar.png",
-        "link": "Titanium_Scimitar"
-    },
-    {
-        "name": "Gold Dagger",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
+        "types": ["meleeDmg"],
         "cost": {
             "min": 97000,
-            "max": 97000
-        },
-        "colors": [
-            "brown",
-            "yellow"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "0/02/Gold_Dagger.png",
-        "link": "Gold_Dagger"
-    },
-    {
-        "name": "Gold Greatsword",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 190000,
             "max": 190000
         },
-        "colors": [
-            "yellow"
-        ],
+        "colors": ["yellow"],
         "outline": "white",
         "release": "fr",
-        "image": "7/77/Gold_Greatsword.png",
-        "link": "Gold_Greatsword"
+        "image": "f/f7/Gold_Ore.png",
+        "link": "Ores"
     },
     {
-        "name": "Gold Rapier",
+        "name": "Onyx Weapons",
         "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 150000,
-            "max": 150000
-        },
-        "colors": [
-            "yellow"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "c/c7/Gold_Rapier.png",
-        "link": "Gold_Rapier"
-    },
-    {
-        "name": "Gold Scimitar",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 150000,
-            "max": 150000
-        },
-        "colors": [
-            "brown",
-            "yellow"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "7/75/Gold_Scimitar.png",
-        "link": "Gold_Scimitar"
-    },
-    {
-        "name": "Onyx Dagger",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
+        "types": ["meleeDmg"],
         "cost": {
             "min": 200000,
-            "max": 200000
-        },
-        "colors": [
-            "black"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "1/19/Onyx_Dagger.png",
-        "link": "Onyx_Dagger"
-    },
-    {
-        "name": "Onyx Greatsword",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 380000,
             "max": 380000
         },
-        "colors": [
-            "black"
-        ],
+        "colors": ["black"],
         "outline": "white",
         "release": "fr",
-        "image": "9/97/Onyx_Greatsword.png",
-        "link": "Onyx_Greatsword"
-    },
-    {
-        "name": "Onyx Rapier",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 300000,
-            "max": 300000
-        },
-        "colors": [
-            "black"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "c/cf/Onyx_Rapier.png",
-        "link": "Onyx_Rapier"
-    },
-    {
-        "name": "Onyx Scimitar",
-        "special": false,
-        "types": [
-            "meleeDmg"
-        ],
-        "cost": {
-            "min": 300000,
-            "max": 300000
-        },
-        "colors": [
-            "black",
-            "brown"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "7/70/Onyx_Scimitar.png",
-        "link": "Onyx_Scimitar"
+        "image": "d/d/9/Onyx_Ore.png",
+        "link": "Ores"
     },
     {
         "name": "Advanced Rapier",
