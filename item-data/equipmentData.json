@@ -5296,7 +5296,7 @@
             "brown",
             "yellow"
         ],
-        "outline": "",
+        "outline": "purple",
         "release": "fr",
         "image": "d/d5/ZhuuLegs.png",
         "link": "Zhuulaczar_Set#Legs"
@@ -5678,7 +5678,7 @@
             "max": 5000000
         },
         "colors": [],
-        "outline": "",
+        "outline": "red",
         "release": "ow",
         "image": "2/22/World_Sculptor_Platelegs_Large.png",
         "link": "World_Sculptor_Set#Platelegs"
