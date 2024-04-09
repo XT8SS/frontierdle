@@ -5677,7 +5677,7 @@
             "min": 4800000,
             "max": 5000000
         },
-        "colors": [],
+        "colors": ["green"],
         "outline": "red",
         "release": "ow",
         "image": "2/22/World_Sculptor_Platelegs_Large.png",

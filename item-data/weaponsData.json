@@ -1173,7 +1173,7 @@
     {
         "special": true,
         "name": "Pureblood Dagger",
-        "types": [],
+        "types": ["magicDmg", "meleeDmg", "rangedDmg"],
         "cost": {
             "min": 6600000,
             "max": 6600000
