@@ -2200,23 +2200,6 @@
         "link": "Magic_Fox_Headdress"
     },
     {
-        "name": "Mining Helmet",
-        "slot": "head",
-        "stats": [],
-        "cost": {
-            "min": 5000,
-            "max": 5000
-        },
-        "colors": [
-            "brown",
-            "white"
-        ],
-        "outline": "white",
-        "release": "fr",
-        "image": "9/94/Mining_Helmet_Large.png",
-        "link": "Mining_Helmet"
-    },
-    {
         "name": "Minion",
         "slot": "head",
         "stats": [],
