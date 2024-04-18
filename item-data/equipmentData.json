@@ -1132,10 +1132,10 @@
         "colors": [
             "black",
             "blue",
+            "brown",
             "green",
             "pink",
-            "red",
-            "white"
+            "red"
         ],
         "outline": "red",
         "release": "fs",
@@ -3877,8 +3877,8 @@
         },
         "colors": [
             "black",
-            "red",
-            "white"
+            "blue",
+            "brown"
         ],
         "outline": "red",
         "release": "fs",
@@ -5783,8 +5783,8 @@
         },
         "colors": [
             "black",
-            "red",
-            "white"
+            "blue",
+            "brown"
         ],
         "outline": "red",
         "release": "fs",
