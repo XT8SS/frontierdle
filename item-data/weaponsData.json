@@ -1142,7 +1142,8 @@
         },
         "colors": [
             "black",
-            "green"
+            "green",
+            "yellow"
         ],
         "outline": "green",
         "release": "rn",
