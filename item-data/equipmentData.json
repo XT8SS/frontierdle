@@ -1595,6 +1595,7 @@
             "max": 4800000
         },
         "colors": [
+            "black",
             "yellow"
         ],
         "outline": "green",
@@ -1616,6 +1617,7 @@
             "max": 4800000
         },
         "colors": [
+            "black",
             "blue"
         ],
         "outline": "green",
