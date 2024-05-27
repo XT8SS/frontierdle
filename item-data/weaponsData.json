@@ -1172,8 +1172,8 @@
         "link": "Eyeball_of_Reckoning_Ultradagger"
     },
     {
-        "special": true,
         "name": "Pureblood Dagger",
+        "special": true,
         "types": ["magicDmg", "meleeDmg", "rangedDmg"],
         "cost": {
             "min": 6600000,
@@ -1355,8 +1355,8 @@
     },
     {
         "name": "Gnome Rocket Launcher",
-        "types": [],
         "special": false,
+        "types": [],
         "cost": {
             "min": 50000000,
             "max": 50000000
